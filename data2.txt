@@ -1,0 +1,1926 @@
+System ID	System	Sub Category	Role	Role Sort	Activity	Activity Sort	RACI
+1	1.0_Strategic_direction	0BDF	1.1.1	1	Trustees	1	I
+1	1.0_Strategic_direction	0BDF	1.1.1	1	AGL Board	2	I
+1	1.0_Strategic_direction	0BDF	1.1.1	1	Arup Group Chair	3	I
+1	1.0_Strategic_direction	0BDF	1.1.1	1	AGL CEO	4	I
+1	1.0_Strategic_direction	0BDF	1.1.1	1	Executive Board	5	I
+1	1.0_Strategic_direction	0BDF	1.1.1	1	Exec Board member	6	I
+1	1.0_Strategic_direction	0BDF	1.1.1	1	Market MD	7	I
+1	1.0_Strategic_direction	0BDF	1.1.2	2	Trustees	1	I
+1	1.0_Strategic_direction	0BDF	1.1.2	2	AGL Board	2	I
+1	1.0_Strategic_direction	0BDF	1.1.2	2	Arup Group Chair	3	I
+1	1.0_Strategic_direction	0BDF	1.1.2	2	AGL CEO	4	I
+1	1.0_Strategic_direction	0BDF	1.1.2	2	Executive Board	5	I
+1	1.0_Strategic_direction	0BDF	1.1.2	2	Exec Board member	6	I
+1	1.0_Strategic_direction	0BDF	1.1.2	2	Market MD	7	I
+1	1.0_Strategic_direction	0BDF	1.1.3	3	Trustees	1	I
+1	1.0_Strategic_direction	0BDF	1.1.3	3	AGL Board	2	I
+1	1.0_Strategic_direction	0BDF	1.1.3	3	Arup Group Chair	3	I
+1	1.0_Strategic_direction	0BDF	1.1.3	3	AGL CEO	4	I
+1	1.0_Strategic_direction	0BDF	1.1.3	3	Executive Board	5	I
+1	1.0_Strategic_direction	0BDF	1.1.3	3	Exec Board member	6	I
+1	1.0_Strategic_direction	0BDF	1.1.3	3	Market MD	7	I
+1	1.0_Strategic_direction	0BDF	1.2.1	4	Trustees	1	C
+1	1.0_Strategic_direction	0BDF	1.2.1	4	AGL Board	2	C
+1	1.0_Strategic_direction	0BDF	1.2.1	4	Arup Group Chair	3	C
+1	1.0_Strategic_direction	0BDF	1.2.1	4	AGL CEO	4	C
+1	1.0_Strategic_direction	0BDF	1.2.1	4	Executive Board	5	C
+1	1.0_Strategic_direction	0BDF	1.2.1	4	Exec Board member	6	C
+1	1.0_Strategic_direction	0BDF	1.2.1	4	Market MD	7	C
+1	1.0_Strategic_direction	0BDF	1.2.2	5	Trustees	1	C
+1	1.0_Strategic_direction	0BDF	1.2.2	5	AGL Board	2	C
+1	1.0_Strategic_direction	0BDF	1.2.2	5	Arup Group Chair	3	C
+1	1.0_Strategic_direction	0BDF	1.2.2	5	AGL CEO	4	C
+1	1.0_Strategic_direction	0BDF	1.2.2	5	Executive Board	5	C
+1	1.0_Strategic_direction	0BDF	1.2.2	5	Exec Board member	6	C
+1	1.0_Strategic_direction	0BDF	1.2.2	5	Market MD	7	C
+1	1.0_Strategic_direction	0BDF	1.2.3	6	Trustees	1	I
+1	1.0_Strategic_direction	0BDF	1.2.3	6	AGL Board	2	I
+1	1.0_Strategic_direction	0BDF	1.2.3	6	Arup Group Chair	3	I
+1	1.0_Strategic_direction	0BDF	1.2.3	6	AGL CEO	4	I
+1	1.0_Strategic_direction	0BDF	1.2.3	6	Executive Board	5	I
+1	1.0_Strategic_direction	0BDF	1.2.3	6	Exec Board member	6	I
+1	1.0_Strategic_direction	0BDF	1.2.3	6	Market MD	7	I
+1	1.0_Strategic_direction	0BDF	1.2.4	7	Trustees	1	I
+1	1.0_Strategic_direction	0BDF	1.2.4	7	AGL Board	2	I
+1	1.0_Strategic_direction	0BDF	1.2.4	7	Arup Group Chair	3	I
+1	1.0_Strategic_direction	0BDF	1.2.4	7	AGL CEO	4	I
+1	1.0_Strategic_direction	0BDF	1.2.4	7	Executive Board	5	I
+1	1.0_Strategic_direction	0BDF	1.2.4	7	Exec Board member	6	I
+1	1.0_Strategic_direction	0BDF	1.2.4	7	Market MD	7	I
+1	1.0_Strategic_direction	0BDF	1.3.1	8	Trustees	1	C
+1	1.0_Strategic_direction	0BDF	1.3.1	8	AGL Board	2	C
+1	1.0_Strategic_direction	0BDF	1.3.1	8	Arup Group Chair	3	I
+1	1.0_Strategic_direction	0BDF	1.3.1	8	AGL CEO	4	C
+1	1.0_Strategic_direction	0BDF	1.3.1	8	Executive Board	5	C
+1	1.0_Strategic_direction	0BDF	1.3.1	8	Exec Board member	6	C
+1	1.0_Strategic_direction	0BDF	1.3.1	8	Market MD	7	C
+1	1.0_Strategic_direction	0BDF	1.3.2	9	Trustees	1	I
+1	1.0_Strategic_direction	0BDF	1.3.2	9	AGL Board	2	I
+1	1.0_Strategic_direction	0BDF	1.3.2	9	Arup Group Chair	3	I
+1	1.0_Strategic_direction	0BDF	1.3.2	9	AGL CEO	4	I
+1	1.0_Strategic_direction	0BDF	1.3.2	9	Executive Board	5	I
+1	1.0_Strategic_direction	0BDF	1.3.2	9	Exec Board member	6	I
+1	1.0_Strategic_direction	0BDF	1.3.2	9	Market MD	7	I
+1	1.0_Strategic_direction	0BDF	1.3.3	10	Trustees	1	I
+1	1.0_Strategic_direction	0BDF	1.3.3	10	AGL Board	2	C
+1	1.0_Strategic_direction	0BDF	1.3.3	10	Arup Group Chair	3	I
+1	1.0_Strategic_direction	0BDF	1.3.3	10	AGL CEO	4	I
+1	1.0_Strategic_direction	0BDF	1.3.3	10	Executive Board	5	I
+1	1.0_Strategic_direction	0BDF	1.3.3	10	Exec Board member	6	I
+1	1.0_Strategic_direction	0BDF	1.3.3	10	Market MD	7	I
+1	1.0_Strategic_direction	0BDF	1.3.4	11	Trustees	1	C
+1	1.0_Strategic_direction	0BDF	1.3.4	11	AGL Board	2	C
+1	1.0_Strategic_direction	0BDF	1.3.4	11	Arup Group Chair	3	C
+1	1.0_Strategic_direction	0BDF	1.3.4	11	AGL CEO	4	C
+1	1.0_Strategic_direction	0BDF	1.3.4	11	Executive Board	5	C
+1	1.0_Strategic_direction	0BDF	1.3.4	11	Exec Board member	6	C
+1	1.0_Strategic_direction	0BDF	1.3.4	11	Market MD	7	C
+1	1.0_Strategic_direction	CC0D	1.1.1	1	Trustees	1	A
+1	1.0_Strategic_direction	CC0D	1.1.1	1	AGL Board	2	A
+1	1.0_Strategic_direction	CC0D	1.1.1	1	Arup Group Chair	3	A
+1	1.0_Strategic_direction	CC0D	1.1.1	1	AGL CEO	4	I
+1	1.0_Strategic_direction	CC0D	1.1.1	1	Executive Board	5	A
+1	1.0_Strategic_direction	CC0D	1.1.1	1	Exec Board member	6	A
+1	1.0_Strategic_direction	CC0D	1.1.1	1	Market MD	7	A
+1	1.0_Strategic_direction	CC0D	1.1.2	2	Trustees	1	I
+1	1.0_Strategic_direction	CC0D	1.1.2	2	AGL Board	2	I
+1	1.0_Strategic_direction	CC0D	1.1.2	2	Arup Group Chair	3	I
+1	1.0_Strategic_direction	CC0D	1.1.2	2	AGL CEO	4	I
+1	1.0_Strategic_direction	CC0D	1.1.2	2	Executive Board	5	C
+1	1.0_Strategic_direction	CC0D	1.1.2	2	Exec Board member	6	I
+1	1.0_Strategic_direction	CC0D	1.1.2	2	Market MD	7	I
+1	1.0_Strategic_direction	CC0D	1.1.3	3	Trustees	1	C
+1	1.0_Strategic_direction	CC0D	1.1.3	3	AGL Board	2	I
+1	1.0_Strategic_direction	CC0D	1.1.3	3	Arup Group Chair	3	I
+1	1.0_Strategic_direction	CC0D	1.1.3	3	AGL CEO	4	C
+1	1.0_Strategic_direction	CC0D	1.1.3	3	Executive Board	5	C
+1	1.0_Strategic_direction	CC0D	1.1.3	3	Exec Board member	6	C
+1	1.0_Strategic_direction	CC0D	1.1.3	3	Market MD	7	C
+1	1.0_Strategic_direction	CC0D	1.2.1	4	Trustees	1	I
+1	1.0_Strategic_direction	CC0D	1.2.1	4	AGL Board	2	I
+1	1.0_Strategic_direction	CC0D	1.2.1	4	Arup Group Chair	3	I
+1	1.0_Strategic_direction	CC0D	1.2.1	4	AGL CEO	4	I
+1	1.0_Strategic_direction	CC0D	1.2.1	4	Executive Board	5	I
+1	1.0_Strategic_direction	CC0D	1.2.1	4	Exec Board member	6	I
+1	1.0_Strategic_direction	CC0D	1.2.1	4	Market MD	7	I
+1	1.0_Strategic_direction	CC0D	1.2.2	5	Trustees	1	I
+1	1.0_Strategic_direction	CC0D	1.2.2	5	AGL Board	2	I
+1	1.0_Strategic_direction	CC0D	1.2.2	5	Arup Group Chair	3	I
+1	1.0_Strategic_direction	CC0D	1.2.2	5	AGL CEO	4	C
+1	1.0_Strategic_direction	CC0D	1.2.2	5	Executive Board	5	I
+1	1.0_Strategic_direction	CC0D	1.2.2	5	Exec Board member	6	I
+1	1.0_Strategic_direction	CC0D	1.2.2	5	Market MD	7	I
+1	1.0_Strategic_direction	CC0D	1.2.3	6	Trustees	1	I
+1	1.0_Strategic_direction	CC0D	1.2.3	6	AGL Board	2	I
+1	1.0_Strategic_direction	CC0D	1.2.3	6	Arup Group Chair	3	I
+1	1.0_Strategic_direction	CC0D	1.2.3	6	AGL CEO	4	I
+1	1.0_Strategic_direction	CC0D	1.2.3	6	Executive Board	5	I
+1	1.0_Strategic_direction	CC0D	1.2.3	6	Exec Board member	6	I
+1	1.0_Strategic_direction	CC0D	1.2.3	6	Market MD	7	I
+1	1.0_Strategic_direction	CC0D	1.2.4	7	Trustees	1	R
+1	1.0_Strategic_direction	CC0D	1.2.4	7	AGL Board	2	R
+1	1.0_Strategic_direction	CC0D	1.2.4	7	Arup Group Chair	3	R
+1	1.0_Strategic_direction	CC0D	1.2.4	7	AGL CEO	4	R
+1	1.0_Strategic_direction	CC0D	1.2.4	7	Executive Board	5	R
+1	1.0_Strategic_direction	CC0D	1.2.4	7	Exec Board member	6	R
+1	1.0_Strategic_direction	CC0D	1.2.4	7	Market MD	7	R
+1	1.0_Strategic_direction	CC0D	1.3.1	8	Trustees	1	C
+1	1.0_Strategic_direction	CC0D	1.3.1	8	AGL Board	2	C
+1	1.0_Strategic_direction	CC0D	1.3.1	8	Arup Group Chair	3	C
+1	1.0_Strategic_direction	CC0D	1.3.1	8	AGL CEO	4	C
+1	1.0_Strategic_direction	CC0D	1.3.1	8	Executive Board	5	C
+1	1.0_Strategic_direction	CC0D	1.3.1	8	Exec Board member	6	C
+1	1.0_Strategic_direction	CC0D	1.3.1	8	Market MD	7	C
+1	1.0_Strategic_direction	CC0D	1.3.2	9	Trustees	1	C
+1	1.0_Strategic_direction	CC0D	1.3.2	9	AGL Board	2	C
+1	1.0_Strategic_direction	CC0D	1.3.2	9	Arup Group Chair	3	C
+1	1.0_Strategic_direction	CC0D	1.3.2	9	AGL CEO	4	C
+1	1.0_Strategic_direction	CC0D	1.3.2	9	Executive Board	5	C
+1	1.0_Strategic_direction	CC0D	1.3.2	9	Exec Board member	6	C
+1	1.0_Strategic_direction	CC0D	1.3.2	9	Market MD	7	C
+1	1.0_Strategic_direction	CC0D	1.3.3	10	Trustees	1	C
+1	1.0_Strategic_direction	CC0D	1.3.3	10	AGL Board	2	C
+1	1.0_Strategic_direction	CC0D	1.3.3	10	Arup Group Chair	3	C
+1	1.0_Strategic_direction	CC0D	1.3.3	10	AGL CEO	4	C
+1	1.0_Strategic_direction	CC0D	1.3.3	10	Executive Board	5	I
+1	1.0_Strategic_direction	CC0D	1.3.3	10	Exec Board member	6	C
+1	1.0_Strategic_direction	CC0D	1.3.3	10	Market MD	7	C
+1	1.0_Strategic_direction	CC0D	1.3.4	11	Trustees	1	C
+1	1.0_Strategic_direction	CC0D	1.3.4	11	AGL Board	2	C
+1	1.0_Strategic_direction	CC0D	1.3.4	11	Arup Group Chair	3	C
+1	1.0_Strategic_direction	CC0D	1.3.4	11	AGL CEO	4	C
+1	1.0_Strategic_direction	CC0D	1.3.4	11	Executive Board	5	C
+1	1.0_Strategic_direction	CC0D	1.3.4	11	Exec Board member	6	C
+1	1.0_Strategic_direction	CC0D	1.3.4	11	Market MD	7	C
+1	1.0_Strategic_direction	ECCA	1.1.1	1	Trustees	1	C
+1	1.0_Strategic_direction	ECCA	1.1.1	1	AGL Board	2	C
+1	1.0_Strategic_direction	ECCA	1.1.1	1	Arup Group Chair	3	C
+1	1.0_Strategic_direction	ECCA	1.1.1	1	AGL CEO	4	C
+1	1.0_Strategic_direction	ECCA	1.1.1	1	Executive Board	5	C
+1	1.0_Strategic_direction	ECCA	1.1.1	1	Exec Board member	6	C
+1	1.0_Strategic_direction	ECCA	1.1.1	1	Market MD	7	C
+1	1.0_Strategic_direction	ECCA	1.1.2	2	Trustees	1	I
+1	1.0_Strategic_direction	ECCA	1.1.2	2	AGL Board	2	I
+1	1.0_Strategic_direction	ECCA	1.1.2	2	Arup Group Chair	3	I
+1	1.0_Strategic_direction	ECCA	1.1.2	2	AGL CEO	4	I
+1	1.0_Strategic_direction	ECCA	1.1.2	2	Executive Board	5	I
+1	1.0_Strategic_direction	ECCA	1.1.2	2	Exec Board member	6	I
+1	1.0_Strategic_direction	ECCA	1.1.2	2	Market MD	7	I
+1	1.0_Strategic_direction	ECCA	1.1.3	3	Trustees	1	C
+1	1.0_Strategic_direction	ECCA	1.1.3	3	AGL Board	2	C
+1	1.0_Strategic_direction	ECCA	1.1.3	3	Arup Group Chair	3	C
+1	1.0_Strategic_direction	ECCA	1.1.3	3	AGL CEO	4	C
+1	1.0_Strategic_direction	ECCA	1.1.3	3	Executive Board	5	C
+1	1.0_Strategic_direction	ECCA	1.1.3	3	Exec Board member	6	C
+1	1.0_Strategic_direction	ECCA	1.1.3	3	Market MD	7	C
+1	1.0_Strategic_direction	ECCA	1.2.1	4	Trustees	1	I
+1	1.0_Strategic_direction	ECCA	1.2.1	4	AGL Board	2	I
+1	1.0_Strategic_direction	ECCA	1.2.1	4	Arup Group Chair	3	I
+1	1.0_Strategic_direction	ECCA	1.2.1	4	AGL CEO	4	I
+1	1.0_Strategic_direction	ECCA	1.2.1	4	Executive Board	5	I
+1	1.0_Strategic_direction	ECCA	1.2.1	4	Exec Board member	6	I
+1	1.0_Strategic_direction	ECCA	1.2.1	4	Market MD	7	I
+1	1.0_Strategic_direction	ECCA	1.2.2	5	Trustees	1	C
+1	1.0_Strategic_direction	ECCA	1.2.2	5	AGL Board	2	C
+1	1.0_Strategic_direction	ECCA	1.2.2	5	Arup Group Chair	3	C
+1	1.0_Strategic_direction	ECCA	1.2.2	5	AGL CEO	4	C
+1	1.0_Strategic_direction	ECCA	1.2.2	5	Executive Board	5	I
+1	1.0_Strategic_direction	ECCA	1.2.2	5	Exec Board member	6	C
+1	1.0_Strategic_direction	ECCA	1.2.2	5	Market MD	7	I
+1	1.0_Strategic_direction	ECCA	1.2.3	6	Trustees	1	I
+1	1.0_Strategic_direction	ECCA	1.2.3	6	AGL Board	2	I
+1	1.0_Strategic_direction	ECCA	1.2.3	6	Arup Group Chair	3	I
+1	1.0_Strategic_direction	ECCA	1.2.3	6	AGL CEO	4	I
+1	1.0_Strategic_direction	ECCA	1.2.3	6	Executive Board	5	I
+1	1.0_Strategic_direction	ECCA	1.2.3	6	Exec Board member	6	I
+1	1.0_Strategic_direction	ECCA	1.2.3	6	Market MD	7	I
+1	1.0_Strategic_direction	ECCA	1.2.4	7	Trustees	1	C
+1	1.0_Strategic_direction	ECCA	1.2.4	7	AGL Board	2	C
+1	1.0_Strategic_direction	ECCA	1.2.4	7	Arup Group Chair	3	C
+1	1.0_Strategic_direction	ECCA	1.2.4	7	AGL CEO	4	C
+1	1.0_Strategic_direction	ECCA	1.2.4	7	Executive Board	5	C
+1	1.0_Strategic_direction	ECCA	1.2.4	7	Exec Board member	6	C
+1	1.0_Strategic_direction	ECCA	1.2.4	7	Market MD	7	C
+1	1.0_Strategic_direction	ECCA	1.3.1	8	Trustees	1	I
+1	1.0_Strategic_direction	ECCA	1.3.1	8	AGL Board	2	I
+1	1.0_Strategic_direction	ECCA	1.3.1	8	Arup Group Chair	3	I
+1	1.0_Strategic_direction	ECCA	1.3.1	8	AGL CEO	4	I
+1	1.0_Strategic_direction	ECCA	1.3.1	8	Executive Board	5	I
+1	1.0_Strategic_direction	ECCA	1.3.1	8	Exec Board member	6	I
+1	1.0_Strategic_direction	ECCA	1.3.1	8	Market MD	7	I
+1	1.0_Strategic_direction	ECCA	1.3.2	9	Trustees	1	I
+1	1.0_Strategic_direction	ECCA	1.3.2	9	AGL Board	2	I
+1	1.0_Strategic_direction	ECCA	1.3.2	9	Arup Group Chair	3	I
+1	1.0_Strategic_direction	ECCA	1.3.2	9	AGL CEO	4	I
+1	1.0_Strategic_direction	ECCA	1.3.2	9	Executive Board	5	I
+1	1.0_Strategic_direction	ECCA	1.3.2	9	Exec Board member	6	I
+1	1.0_Strategic_direction	ECCA	1.3.2	9	Market MD	7	I
+1	1.0_Strategic_direction	ECCA	1.3.3	10	Trustees	1	C
+1	1.0_Strategic_direction	ECCA	1.3.3	10	AGL Board	2	C
+1	1.0_Strategic_direction	ECCA	1.3.3	10	Arup Group Chair	3	C
+1	1.0_Strategic_direction	ECCA	1.3.3	10	AGL CEO	4	C
+1	1.0_Strategic_direction	ECCA	1.3.3	10	Executive Board	5	C
+1	1.0_Strategic_direction	ECCA	1.3.3	10	Exec Board member	6	C
+1	1.0_Strategic_direction	ECCA	1.3.3	10	Market MD	7	C
+1	1.0_Strategic_direction	ECCA	1.3.4	11	Trustees	1	C
+1	1.0_Strategic_direction	ECCA	1.3.4	11	AGL Board	2	C
+1	1.0_Strategic_direction	ECCA	1.3.4	11	Arup Group Chair	3	C
+1	1.0_Strategic_direction	ECCA	1.3.4	11	AGL CEO	4	C
+1	1.0_Strategic_direction	ECCA	1.3.4	11	Executive Board	5	C
+1	1.0_Strategic_direction	ECCA	1.3.4	11	Exec Board member	6	C
+1	1.0_Strategic_direction	ECCA	1.3.4	11	Market MD	7	C
+2	2.0_Risk	0DCA	1.1.1	1	Trustees	1	I
+2	2.0_Risk	0DCA	1.1.1	1	AGL Board	2	I
+2	2.0_Risk	0DCA	1.1.1	1	Arup Group Chair	3	I
+2	2.0_Risk	0DCA	1.1.1	1	AGL CEO	4	I
+2	2.0_Risk	0DCA	1.1.1	1	Executive Board	5	I
+2	2.0_Risk	0DCA	1.1.1	1	Exec Board member	6	I
+2	2.0_Risk	0DCA	1.1.1	1	Market MD	7	I
+2	2.0_Risk	0DCA	1.1.2	2	Trustees	1	A
+2	2.0_Risk	0DCA	1.1.2	2	AGL Board	2	A
+2	2.0_Risk	0DCA	1.1.2	2	Arup Group Chair	3	A
+2	2.0_Risk	0DCA	1.1.2	2	AGL CEO	4	A
+2	2.0_Risk	0DCA	1.1.2	2	Executive Board	5	A
+2	2.0_Risk	0DCA	1.1.2	2	Exec Board member	6	A
+2	2.0_Risk	0DCA	1.1.2	2	Market MD	7	A
+2	2.0_Risk	0DCA	1.1.3	3	Trustees	1	I
+2	2.0_Risk	0DCA	1.1.3	3	AGL Board	2	I
+2	2.0_Risk	0DCA	1.1.3	3	Arup Group Chair	3	I
+2	2.0_Risk	0DCA	1.1.3	3	AGL CEO	4	I
+2	2.0_Risk	0DCA	1.1.3	3	Executive Board	5	I
+2	2.0_Risk	0DCA	1.1.3	3	Exec Board member	6	I
+2	2.0_Risk	0DCA	1.1.3	3	Market MD	7	I
+2	2.0_Risk	0DCA	1.2.1	4	Trustees	1	I
+2	2.0_Risk	0DCA	1.2.1	4	AGL Board	2	I
+2	2.0_Risk	0DCA	1.2.1	4	Arup Group Chair	3	I
+2	2.0_Risk	0DCA	1.2.1	4	AGL CEO	4	I
+2	2.0_Risk	0DCA	1.2.1	4	Executive Board	5	I
+2	2.0_Risk	0DCA	1.2.1	4	Exec Board member	6	I
+2	2.0_Risk	0DCA	1.2.1	4	Market MD	7	C
+2	2.0_Risk	0DCA	1.2.2	5	Trustees	1	C
+2	2.0_Risk	0DCA	1.2.2	5	AGL Board	2	C
+2	2.0_Risk	0DCA	1.2.2	5	Arup Group Chair	3	C
+2	2.0_Risk	0DCA	1.2.2	5	AGL CEO	4	C
+2	2.0_Risk	0DCA	1.2.2	5	Executive Board	5	C
+2	2.0_Risk	0DCA	1.2.2	5	Exec Board member	6	C
+2	2.0_Risk	0DCA	1.2.2	5	Market MD	7	C
+2	2.0_Risk	0DCA	1.2.3	6	Trustees	1	C
+2	2.0_Risk	0DCA	1.2.3	6	AGL Board	2	C
+2	2.0_Risk	0DCA	1.2.3	6	Arup Group Chair	3	C
+2	2.0_Risk	0DCA	1.2.3	6	AGL CEO	4	I
+2	2.0_Risk	0DCA	1.2.3	6	Executive Board	5	I
+2	2.0_Risk	0DCA	1.2.3	6	Exec Board member	6	C
+2	2.0_Risk	0DCA	1.2.3	6	Market MD	7	C
+2	2.0_Risk	0DCA	1.2.4	7	Trustees	1	C
+2	2.0_Risk	0DCA	1.2.4	7	AGL Board	2	C
+2	2.0_Risk	0DCA	1.2.4	7	Arup Group Chair	3	C
+2	2.0_Risk	0DCA	1.2.4	7	AGL CEO	4	C
+2	2.0_Risk	0DCA	1.2.4	7	Executive Board	5	C
+2	2.0_Risk	0DCA	1.2.4	7	Exec Board member	6	C
+2	2.0_Risk	0DCA	1.2.4	7	Market MD	7	C
+2	2.0_Risk	0DCA	1.3.1	8	Trustees	1	C
+2	2.0_Risk	0DCA	1.3.1	8	AGL Board	2	C
+2	2.0_Risk	0DCA	1.3.1	8	Arup Group Chair	3	C
+2	2.0_Risk	0DCA	1.3.1	8	AGL CEO	4	C
+2	2.0_Risk	0DCA	1.3.1	8	Executive Board	5	C
+2	2.0_Risk	0DCA	1.3.1	8	Exec Board member	6	C
+2	2.0_Risk	0DCA	1.3.1	8	Market MD	7	C
+2	2.0_Risk	0DCA	1.3.2	9	Trustees	1	C
+2	2.0_Risk	0DCA	1.3.2	9	AGL Board	2	C
+2	2.0_Risk	0DCA	1.3.2	9	Arup Group Chair	3	C
+2	2.0_Risk	0DCA	1.3.2	9	AGL CEO	4	C
+2	2.0_Risk	0DCA	1.3.2	9	Executive Board	5	C
+2	2.0_Risk	0DCA	1.3.2	9	Exec Board member	6	C
+2	2.0_Risk	0DCA	1.3.2	9	Market MD	7	C
+2	2.0_Risk	0DCA	1.3.3	10	Trustees	1	C
+2	2.0_Risk	0DCA	1.3.3	10	AGL Board	2	C
+2	2.0_Risk	0DCA	1.3.3	10	Arup Group Chair	3	C
+2	2.0_Risk	0DCA	1.3.3	10	AGL CEO	4	C
+2	2.0_Risk	0DCA	1.3.3	10	Executive Board	5	C
+2	2.0_Risk	0DCA	1.3.3	10	Exec Board member	6	I
+2	2.0_Risk	0DCA	1.3.3	10	Market MD	7	C
+2	2.0_Risk	0DCA	1.3.4	11	Trustees	1	A
+2	2.0_Risk	0DCA	1.3.4	11	AGL Board	2	A
+2	2.0_Risk	0DCA	1.3.4	11	Arup Group Chair	3	A
+2	2.0_Risk	0DCA	1.3.4	11	AGL CEO	4	A
+2	2.0_Risk	0DCA	1.3.4	11	Executive Board	5	A
+2	2.0_Risk	0DCA	1.3.4	11	Exec Board member	6	A
+2	2.0_Risk	0DCA	1.3.4	11	Market MD	7	A
+2	2.0_Risk	DD0C	1.1.1	1	Trustees	1	C
+2	2.0_Risk	DD0C	1.1.1	1	AGL Board	2	C
+2	2.0_Risk	DD0C	1.1.1	1	Arup Group Chair	3	C
+2	2.0_Risk	DD0C	1.1.1	1	AGL CEO	4	C
+2	2.0_Risk	DD0C	1.1.1	1	Executive Board	5	I
+2	2.0_Risk	DD0C	1.1.1	1	Exec Board member	6	C
+2	2.0_Risk	DD0C	1.1.1	1	Market MD	7	C
+2	2.0_Risk	DD0C	1.1.2	2	Trustees	1	I
+2	2.0_Risk	DD0C	1.1.2	2	AGL Board	2	I
+2	2.0_Risk	DD0C	1.1.2	2	Arup Group Chair	3	I
+2	2.0_Risk	DD0C	1.1.2	2	AGL CEO	4	I
+2	2.0_Risk	DD0C	1.1.2	2	Executive Board	5	I
+2	2.0_Risk	DD0C	1.1.2	2	Exec Board member	6	I
+2	2.0_Risk	DD0C	1.1.2	2	Market MD	7	I
+2	2.0_Risk	DD0C	1.1.3	3	Trustees	1	C
+2	2.0_Risk	DD0C	1.1.3	3	AGL Board	2	I
+2	2.0_Risk	DD0C	1.1.3	3	Arup Group Chair	3	C
+2	2.0_Risk	DD0C	1.1.3	3	AGL CEO	4	C
+2	2.0_Risk	DD0C	1.1.3	3	Executive Board	5	C
+2	2.0_Risk	DD0C	1.1.3	3	Exec Board member	6	C
+2	2.0_Risk	DD0C	1.1.3	3	Market MD	7	C
+2	2.0_Risk	DD0C	1.2.1	4	Trustees	1	I
+2	2.0_Risk	DD0C	1.2.1	4	AGL Board	2	I
+2	2.0_Risk	DD0C	1.2.1	4	Arup Group Chair	3	I
+2	2.0_Risk	DD0C	1.2.1	4	AGL CEO	4	I
+2	2.0_Risk	DD0C	1.2.1	4	Executive Board	5	I
+2	2.0_Risk	DD0C	1.2.1	4	Exec Board member	6	I
+2	2.0_Risk	DD0C	1.2.1	4	Market MD	7	I
+2	2.0_Risk	DD0C	1.2.2	5	Trustees	1	I
+2	2.0_Risk	DD0C	1.2.2	5	AGL Board	2	I
+2	2.0_Risk	DD0C	1.2.2	5	Arup Group Chair	3	I
+2	2.0_Risk	DD0C	1.2.2	5	AGL CEO	4	I
+2	2.0_Risk	DD0C	1.2.2	5	Executive Board	5	I
+2	2.0_Risk	DD0C	1.2.2	5	Exec Board member	6	C
+2	2.0_Risk	DD0C	1.2.2	5	Market MD	7	I
+2	2.0_Risk	DD0C	1.2.3	6	Trustees	1	I
+2	2.0_Risk	DD0C	1.2.3	6	AGL Board	2	I
+2	2.0_Risk	DD0C	1.2.3	6	Arup Group Chair	3	I
+2	2.0_Risk	DD0C	1.2.3	6	AGL CEO	4	I
+2	2.0_Risk	DD0C	1.2.3	6	Executive Board	5	I
+2	2.0_Risk	DD0C	1.2.3	6	Exec Board member	6	A
+2	2.0_Risk	DD0C	1.2.3	6	Market MD	7	I
+2	2.0_Risk	DD0C	1.2.4	7	Trustees	1	I
+2	2.0_Risk	DD0C	1.2.4	7	AGL Board	2	I
+2	2.0_Risk	DD0C	1.2.4	7	Arup Group Chair	3	I
+2	2.0_Risk	DD0C	1.2.4	7	AGL CEO	4	I
+2	2.0_Risk	DD0C	1.2.4	7	Executive Board	5	I
+2	2.0_Risk	DD0C	1.2.4	7	Exec Board member	6	I
+2	2.0_Risk	DD0C	1.2.4	7	Market MD	7	I
+2	2.0_Risk	DD0C	1.3.1	8	Trustees	1	C
+2	2.0_Risk	DD0C	1.3.1	8	AGL Board	2	C
+2	2.0_Risk	DD0C	1.3.1	8	Arup Group Chair	3	I
+2	2.0_Risk	DD0C	1.3.1	8	AGL CEO	4	C
+2	2.0_Risk	DD0C	1.3.1	8	Executive Board	5	C
+2	2.0_Risk	DD0C	1.3.1	8	Exec Board member	6	C
+2	2.0_Risk	DD0C	1.3.1	8	Market MD	7	C
+2	2.0_Risk	DD0C	1.3.2	9	Trustees	1	I
+2	2.0_Risk	DD0C	1.3.2	9	AGL Board	2	I
+2	2.0_Risk	DD0C	1.3.2	9	Arup Group Chair	3	I
+2	2.0_Risk	DD0C	1.3.2	9	AGL CEO	4	I
+2	2.0_Risk	DD0C	1.3.2	9	Executive Board	5	I
+2	2.0_Risk	DD0C	1.3.2	9	Exec Board member	6	I
+2	2.0_Risk	DD0C	1.3.2	9	Market MD	7	I
+2	2.0_Risk	DD0C	1.3.3	10	Trustees	1	C
+2	2.0_Risk	DD0C	1.3.3	10	AGL Board	2	C
+2	2.0_Risk	DD0C	1.3.3	10	Arup Group Chair	3	C
+2	2.0_Risk	DD0C	1.3.3	10	AGL CEO	4	C
+2	2.0_Risk	DD0C	1.3.3	10	Executive Board	5	C
+2	2.0_Risk	DD0C	1.3.3	10	Exec Board member	6	I
+2	2.0_Risk	DD0C	1.3.3	10	Market MD	7	C
+2	2.0_Risk	DD0C	1.3.4	11	Trustees	1	A
+2	2.0_Risk	DD0C	1.3.4	11	AGL Board	2	A
+2	2.0_Risk	DD0C	1.3.4	11	Arup Group Chair	3	A
+2	2.0_Risk	DD0C	1.3.4	11	AGL CEO	4	A
+2	2.0_Risk	DD0C	1.3.4	11	Executive Board	5	A
+2	2.0_Risk	DD0C	1.3.4	11	Exec Board member	6	A
+2	2.0_Risk	DD0C	1.3.4	11	Market MD	7	I
+2	2.0_Risk	FEFD	1.1.1	1	Trustees	1	I
+2	2.0_Risk	FEFD	1.1.1	1	AGL Board	2	I
+2	2.0_Risk	FEFD	1.1.1	1	Arup Group Chair	3	I
+2	2.0_Risk	FEFD	1.1.1	1	AGL CEO	4	I
+2	2.0_Risk	FEFD	1.1.1	1	Executive Board	5	I
+2	2.0_Risk	FEFD	1.1.1	1	Exec Board member	6	I
+2	2.0_Risk	FEFD	1.1.1	1	Market MD	7	I
+2	2.0_Risk	FEFD	1.1.2	2	Trustees	1	I
+2	2.0_Risk	FEFD	1.1.2	2	AGL Board	2	I
+2	2.0_Risk	FEFD	1.1.2	2	Arup Group Chair	3	I
+2	2.0_Risk	FEFD	1.1.2	2	AGL CEO	4	I
+2	2.0_Risk	FEFD	1.1.2	2	Executive Board	5	I
+2	2.0_Risk	FEFD	1.1.2	2	Exec Board member	6	I
+2	2.0_Risk	FEFD	1.1.2	2	Market MD	7	I
+2	2.0_Risk	FEFD	1.1.3	3	Trustees	1	A
+2	2.0_Risk	FEFD	1.1.3	3	AGL Board	2	A
+2	2.0_Risk	FEFD	1.1.3	3	Arup Group Chair	3	A
+2	2.0_Risk	FEFD	1.1.3	3	AGL CEO	4	A
+2	2.0_Risk	FEFD	1.1.3	3	Executive Board	5	A
+2	2.0_Risk	FEFD	1.1.3	3	Exec Board member	6	A
+2	2.0_Risk	FEFD	1.1.3	3	Market MD	7	A
+2	2.0_Risk	FEFD	1.2.1	4	Trustees	1	C
+2	2.0_Risk	FEFD	1.2.1	4	AGL Board	2	C
+2	2.0_Risk	FEFD	1.2.1	4	Arup Group Chair	3	A
+2	2.0_Risk	FEFD	1.2.1	4	AGL CEO	4	C
+2	2.0_Risk	FEFD	1.2.1	4	Executive Board	5	C
+2	2.0_Risk	FEFD	1.2.1	4	Exec Board member	6	C
+2	2.0_Risk	FEFD	1.2.1	4	Market MD	7	I
+2	2.0_Risk	FEFD	1.2.2	5	Trustees	1	C
+2	2.0_Risk	FEFD	1.2.2	5	AGL Board	2	C
+2	2.0_Risk	FEFD	1.2.2	5	Arup Group Chair	3	C
+2	2.0_Risk	FEFD	1.2.2	5	AGL CEO	4	C
+2	2.0_Risk	FEFD	1.2.2	5	Executive Board	5	C
+2	2.0_Risk	FEFD	1.2.2	5	Exec Board member	6	C
+2	2.0_Risk	FEFD	1.2.2	5	Market MD	7	C
+2	2.0_Risk	FEFD	1.2.3	6	Trustees	1	C
+2	2.0_Risk	FEFD	1.2.3	6	AGL Board	2	C
+2	2.0_Risk	FEFD	1.2.3	6	Arup Group Chair	3	C
+2	2.0_Risk	FEFD	1.2.3	6	AGL CEO	4	C
+2	2.0_Risk	FEFD	1.2.3	6	Executive Board	5	C
+2	2.0_Risk	FEFD	1.2.3	6	Exec Board member	6	C
+2	2.0_Risk	FEFD	1.2.3	6	Market MD	7	C
+2	2.0_Risk	FEFD	1.2.4	7	Trustees	1	C
+2	2.0_Risk	FEFD	1.2.4	7	AGL Board	2	C
+2	2.0_Risk	FEFD	1.2.4	7	Arup Group Chair	3	C
+2	2.0_Risk	FEFD	1.2.4	7	AGL CEO	4	C
+2	2.0_Risk	FEFD	1.2.4	7	Executive Board	5	C
+2	2.0_Risk	FEFD	1.2.4	7	Exec Board member	6	C
+2	2.0_Risk	FEFD	1.2.4	7	Market MD	7	C
+2	2.0_Risk	FEFD	1.3.1	8	Trustees	1	A
+2	2.0_Risk	FEFD	1.3.1	8	AGL Board	2	A
+2	2.0_Risk	FEFD	1.3.1	8	Arup Group Chair	3	A
+2	2.0_Risk	FEFD	1.3.1	8	AGL CEO	4	A
+2	2.0_Risk	FEFD	1.3.1	8	Executive Board	5	A
+2	2.0_Risk	FEFD	1.3.1	8	Exec Board member	6	A
+2	2.0_Risk	FEFD	1.3.1	8	Market MD	7	A
+2	2.0_Risk	FEFD	1.3.2	9	Trustees	1	I
+2	2.0_Risk	FEFD	1.3.2	9	AGL Board	2	I
+2	2.0_Risk	FEFD	1.3.2	9	Arup Group Chair	3	I
+2	2.0_Risk	FEFD	1.3.2	9	AGL CEO	4	I
+2	2.0_Risk	FEFD	1.3.2	9	Executive Board	5	I
+2	2.0_Risk	FEFD	1.3.2	9	Exec Board member	6	I
+2	2.0_Risk	FEFD	1.3.2	9	Market MD	7	I
+2	2.0_Risk	FEFD	1.3.3	10	Trustees	1	C
+2	2.0_Risk	FEFD	1.3.3	10	AGL Board	2	C
+2	2.0_Risk	FEFD	1.3.3	10	Arup Group Chair	3	C
+2	2.0_Risk	FEFD	1.3.3	10	AGL CEO	4	C
+2	2.0_Risk	FEFD	1.3.3	10	Executive Board	5	C
+2	2.0_Risk	FEFD	1.3.3	10	Exec Board member	6	C
+2	2.0_Risk	FEFD	1.3.3	10	Market MD	7	C
+2	2.0_Risk	FEFD	1.3.4	11	Trustees	1	I
+2	2.0_Risk	FEFD	1.3.4	11	AGL Board	2	I
+2	2.0_Risk	FEFD	1.3.4	11	Arup Group Chair	3	I
+2	2.0_Risk	FEFD	1.3.4	11	AGL CEO	4	I
+2	2.0_Risk	FEFD	1.3.4	11	Executive Board	5	I
+2	2.0_Risk	FEFD	1.3.4	11	Exec Board member	6	I
+2	2.0_Risk	FEFD	1.3.4	11	Market MD	7	I
+3	3.0_Operational_Performance	CEAF	1.1.1	1	Trustees	1	C
+3	3.0_Operational_Performance	CEAF	1.1.1	1	AGL Board	2	C
+3	3.0_Operational_Performance	CEAF	1.1.1	1	Arup Group Chair	3	C
+3	3.0_Operational_Performance	CEAF	1.1.1	1	AGL CEO	4	C
+3	3.0_Operational_Performance	CEAF	1.1.1	1	Executive Board	5	A
+3	3.0_Operational_Performance	CEAF	1.1.1	1	Exec Board member	6	C
+3	3.0_Operational_Performance	CEAF	1.1.1	1	Market MD	7	C
+3	3.0_Operational_Performance	CEAF	1.1.2	2	Trustees	1	C
+3	3.0_Operational_Performance	CEAF	1.1.2	2	AGL Board	2	C
+3	3.0_Operational_Performance	CEAF	1.1.2	2	Arup Group Chair	3	C
+3	3.0_Operational_Performance	CEAF	1.1.2	2	AGL CEO	4	C
+3	3.0_Operational_Performance	CEAF	1.1.2	2	Executive Board	5	C
+3	3.0_Operational_Performance	CEAF	1.1.2	2	Exec Board member	6	C
+3	3.0_Operational_Performance	CEAF	1.1.2	2	Market MD	7	C
+3	3.0_Operational_Performance	CEAF	1.1.3	3	Trustees	1	C
+3	3.0_Operational_Performance	CEAF	1.1.3	3	AGL Board	2	I
+3	3.0_Operational_Performance	CEAF	1.1.3	3	Arup Group Chair	3	C
+3	3.0_Operational_Performance	CEAF	1.1.3	3	AGL CEO	4	C
+3	3.0_Operational_Performance	CEAF	1.1.3	3	Executive Board	5	C
+3	3.0_Operational_Performance	CEAF	1.1.3	3	Exec Board member	6	C
+3	3.0_Operational_Performance	CEAF	1.1.3	3	Market MD	7	C
+3	3.0_Operational_Performance	CEAF	1.2.1	4	Trustees	1	A
+3	3.0_Operational_Performance	CEAF	1.2.1	4	AGL Board	2	A
+3	3.0_Operational_Performance	CEAF	1.2.1	4	Arup Group Chair	3	A
+3	3.0_Operational_Performance	CEAF	1.2.1	4	AGL CEO	4	A
+3	3.0_Operational_Performance	CEAF	1.2.1	4	Executive Board	5	A
+3	3.0_Operational_Performance	CEAF	1.2.1	4	Exec Board member	6	A
+3	3.0_Operational_Performance	CEAF	1.2.1	4	Market MD	7	A
+3	3.0_Operational_Performance	CEAF	1.2.2	5	Trustees	1	I
+3	3.0_Operational_Performance	CEAF	1.2.2	5	AGL Board	2	I
+3	3.0_Operational_Performance	CEAF	1.2.2	5	Arup Group Chair	3	I
+3	3.0_Operational_Performance	CEAF	1.2.2	5	AGL CEO	4	I
+3	3.0_Operational_Performance	CEAF	1.2.2	5	Executive Board	5	I
+3	3.0_Operational_Performance	CEAF	1.2.2	5	Exec Board member	6	I
+3	3.0_Operational_Performance	CEAF	1.2.2	5	Market MD	7	C
+3	3.0_Operational_Performance	CEAF	1.2.3	6	Trustees	1	I
+3	3.0_Operational_Performance	CEAF	1.2.3	6	AGL Board	2	I
+3	3.0_Operational_Performance	CEAF	1.2.3	6	Arup Group Chair	3	I
+3	3.0_Operational_Performance	CEAF	1.2.3	6	AGL CEO	4	I
+3	3.0_Operational_Performance	CEAF	1.2.3	6	Executive Board	5	C
+3	3.0_Operational_Performance	CEAF	1.2.3	6	Exec Board member	6	I
+3	3.0_Operational_Performance	CEAF	1.2.3	6	Market MD	7	I
+3	3.0_Operational_Performance	CEAF	1.2.4	7	Trustees	1	I
+3	3.0_Operational_Performance	CEAF	1.2.4	7	AGL Board	2	I
+3	3.0_Operational_Performance	CEAF	1.2.4	7	Arup Group Chair	3	I
+3	3.0_Operational_Performance	CEAF	1.2.4	7	AGL CEO	4	I
+3	3.0_Operational_Performance	CEAF	1.2.4	7	Executive Board	5	I
+3	3.0_Operational_Performance	CEAF	1.2.4	7	Exec Board member	6	C
+3	3.0_Operational_Performance	CEAF	1.2.4	7	Market MD	7	I
+3	3.0_Operational_Performance	CEAF	1.3.1	8	Trustees	1	I
+3	3.0_Operational_Performance	CEAF	1.3.1	8	AGL Board	2	I
+3	3.0_Operational_Performance	CEAF	1.3.1	8	Arup Group Chair	3	I
+3	3.0_Operational_Performance	CEAF	1.3.1	8	AGL CEO	4	I
+3	3.0_Operational_Performance	CEAF	1.3.1	8	Executive Board	5	I
+3	3.0_Operational_Performance	CEAF	1.3.1	8	Exec Board member	6	I
+3	3.0_Operational_Performance	CEAF	1.3.1	8	Market MD	7	I
+3	3.0_Operational_Performance	CEAF	1.3.2	9	Trustees	1	A
+3	3.0_Operational_Performance	CEAF	1.3.2	9	AGL Board	2	A
+3	3.0_Operational_Performance	CEAF	1.3.2	9	Arup Group Chair	3	A
+3	3.0_Operational_Performance	CEAF	1.3.2	9	AGL CEO	4	A
+3	3.0_Operational_Performance	CEAF	1.3.2	9	Executive Board	5	A
+3	3.0_Operational_Performance	CEAF	1.3.2	9	Exec Board member	6	A
+3	3.0_Operational_Performance	CEAF	1.3.2	9	Market MD	7	A
+3	3.0_Operational_Performance	CEAF	1.3.3	10	Trustees	1	C
+3	3.0_Operational_Performance	CEAF	1.3.3	10	AGL Board	2	C
+3	3.0_Operational_Performance	CEAF	1.3.3	10	Arup Group Chair	3	C
+3	3.0_Operational_Performance	CEAF	1.3.3	10	AGL CEO	4	I
+3	3.0_Operational_Performance	CEAF	1.3.3	10	Executive Board	5	C
+3	3.0_Operational_Performance	CEAF	1.3.3	10	Exec Board member	6	C
+3	3.0_Operational_Performance	CEAF	1.3.3	10	Market MD	7	C
+3	3.0_Operational_Performance	CEAF	1.3.4	11	Trustees	1	I
+3	3.0_Operational_Performance	CEAF	1.3.4	11	AGL Board	2	I
+3	3.0_Operational_Performance	CEAF	1.3.4	11	Arup Group Chair	3	A
+3	3.0_Operational_Performance	CEAF	1.3.4	11	AGL CEO	4	I
+3	3.0_Operational_Performance	CEAF	1.3.4	11	Executive Board	5	I
+3	3.0_Operational_Performance	CEAF	1.3.4	11	Exec Board member	6	I
+3	3.0_Operational_Performance	CEAF	1.3.4	11	Market MD	7	I
+3	3.0_Operational_Performance	F0CA	1.1.1	1	Trustees	1	C
+3	3.0_Operational_Performance	F0CA	1.1.1	1	AGL Board	2	C
+3	3.0_Operational_Performance	F0CA	1.1.1	1	Arup Group Chair	3	C
+3	3.0_Operational_Performance	F0CA	1.1.1	1	AGL CEO	4	I
+3	3.0_Operational_Performance	F0CA	1.1.1	1	Executive Board	5	C
+3	3.0_Operational_Performance	F0CA	1.1.1	1	Exec Board member	6	C
+3	3.0_Operational_Performance	F0CA	1.1.1	1	Market MD	7	I
+3	3.0_Operational_Performance	F0CA	1.1.2	2	Trustees	1	A
+3	3.0_Operational_Performance	F0CA	1.1.2	2	AGL Board	2	A
+3	3.0_Operational_Performance	F0CA	1.1.2	2	Arup Group Chair	3	A
+3	3.0_Operational_Performance	F0CA	1.1.2	2	AGL CEO	4	A
+3	3.0_Operational_Performance	F0CA	1.1.2	2	Executive Board	5	A
+3	3.0_Operational_Performance	F0CA	1.1.2	2	Exec Board member	6	A
+3	3.0_Operational_Performance	F0CA	1.1.2	2	Market MD	7	A
+3	3.0_Operational_Performance	F0CA	1.1.3	3	Trustees	1	I
+3	3.0_Operational_Performance	F0CA	1.1.3	3	AGL Board	2	I
+3	3.0_Operational_Performance	F0CA	1.1.3	3	Arup Group Chair	3	I
+3	3.0_Operational_Performance	F0CA	1.1.3	3	AGL CEO	4	I
+3	3.0_Operational_Performance	F0CA	1.1.3	3	Executive Board	5	I
+3	3.0_Operational_Performance	F0CA	1.1.3	3	Exec Board member	6	I
+3	3.0_Operational_Performance	F0CA	1.1.3	3	Market MD	7	I
+3	3.0_Operational_Performance	F0CA	1.2.1	4	Trustees	1	I
+3	3.0_Operational_Performance	F0CA	1.2.1	4	AGL Board	2	I
+3	3.0_Operational_Performance	F0CA	1.2.1	4	Arup Group Chair	3	I
+3	3.0_Operational_Performance	F0CA	1.2.1	4	AGL CEO	4	I
+3	3.0_Operational_Performance	F0CA	1.2.1	4	Executive Board	5	A
+3	3.0_Operational_Performance	F0CA	1.2.1	4	Exec Board member	6	I
+3	3.0_Operational_Performance	F0CA	1.2.1	4	Market MD	7	I
+3	3.0_Operational_Performance	F0CA	1.2.2	5	Trustees	1	I
+3	3.0_Operational_Performance	F0CA	1.2.2	5	AGL Board	2	I
+3	3.0_Operational_Performance	F0CA	1.2.2	5	Arup Group Chair	3	I
+3	3.0_Operational_Performance	F0CA	1.2.2	5	AGL CEO	4	I
+3	3.0_Operational_Performance	F0CA	1.2.2	5	Executive Board	5	I
+3	3.0_Operational_Performance	F0CA	1.2.2	5	Exec Board member	6	I
+3	3.0_Operational_Performance	F0CA	1.2.2	5	Market MD	7	I
+3	3.0_Operational_Performance	F0CA	1.2.3	6	Trustees	1	C
+3	3.0_Operational_Performance	F0CA	1.2.3	6	AGL Board	2	C
+3	3.0_Operational_Performance	F0CA	1.2.3	6	Arup Group Chair	3	I
+3	3.0_Operational_Performance	F0CA	1.2.3	6	AGL CEO	4	C
+3	3.0_Operational_Performance	F0CA	1.2.3	6	Executive Board	5	C
+3	3.0_Operational_Performance	F0CA	1.2.3	6	Exec Board member	6	C
+3	3.0_Operational_Performance	F0CA	1.2.3	6	Market MD	7	C
+3	3.0_Operational_Performance	F0CA	1.2.4	7	Trustees	1	A
+3	3.0_Operational_Performance	F0CA	1.2.4	7	AGL Board	2	A
+3	3.0_Operational_Performance	F0CA	1.2.4	7	Arup Group Chair	3	A
+3	3.0_Operational_Performance	F0CA	1.2.4	7	AGL CEO	4	A
+3	3.0_Operational_Performance	F0CA	1.2.4	7	Executive Board	5	A
+3	3.0_Operational_Performance	F0CA	1.2.4	7	Exec Board member	6	A
+3	3.0_Operational_Performance	F0CA	1.2.4	7	Market MD	7	A
+3	3.0_Operational_Performance	F0CA	1.3.1	8	Trustees	1	I
+3	3.0_Operational_Performance	F0CA	1.3.1	8	AGL Board	2	I
+3	3.0_Operational_Performance	F0CA	1.3.1	8	Arup Group Chair	3	I
+3	3.0_Operational_Performance	F0CA	1.3.1	8	AGL CEO	4	I
+3	3.0_Operational_Performance	F0CA	1.3.1	8	Executive Board	5	I
+3	3.0_Operational_Performance	F0CA	1.3.1	8	Exec Board member	6	I
+3	3.0_Operational_Performance	F0CA	1.3.1	8	Market MD	7	I
+3	3.0_Operational_Performance	F0CA	1.3.2	9	Trustees	1	C
+3	3.0_Operational_Performance	F0CA	1.3.2	9	AGL Board	2	C
+3	3.0_Operational_Performance	F0CA	1.3.2	9	Arup Group Chair	3	C
+3	3.0_Operational_Performance	F0CA	1.3.2	9	AGL CEO	4	C
+3	3.0_Operational_Performance	F0CA	1.3.2	9	Executive Board	5	C
+3	3.0_Operational_Performance	F0CA	1.3.2	9	Exec Board member	6	C
+3	3.0_Operational_Performance	F0CA	1.3.2	9	Market MD	7	A
+3	3.0_Operational_Performance	F0CA	1.3.3	10	Trustees	1	I
+3	3.0_Operational_Performance	F0CA	1.3.3	10	AGL Board	2	I
+3	3.0_Operational_Performance	F0CA	1.3.3	10	Arup Group Chair	3	I
+3	3.0_Operational_Performance	F0CA	1.3.3	10	AGL CEO	4	I
+3	3.0_Operational_Performance	F0CA	1.3.3	10	Executive Board	5	I
+3	3.0_Operational_Performance	F0CA	1.3.3	10	Exec Board member	6	I
+3	3.0_Operational_Performance	F0CA	1.3.3	10	Market MD	7	I
+3	3.0_Operational_Performance	F0CA	1.3.4	11	Trustees	1	I
+3	3.0_Operational_Performance	F0CA	1.3.4	11	AGL Board	2	I
+3	3.0_Operational_Performance	F0CA	1.3.4	11	Arup Group Chair	3	I
+3	3.0_Operational_Performance	F0CA	1.3.4	11	AGL CEO	4	I
+3	3.0_Operational_Performance	F0CA	1.3.4	11	Executive Board	5	I
+3	3.0_Operational_Performance	F0CA	1.3.4	11	Exec Board member	6	C
+3	3.0_Operational_Performance	F0CA	1.3.4	11	Market MD	7	I
+4	4.0_Reward	00BF	1.1.1	1	Trustees	1	C
+4	4.0_Reward	00BF	1.1.1	1	AGL Board	2	C
+4	4.0_Reward	00BF	1.1.1	1	Arup Group Chair	3	C
+4	4.0_Reward	00BF	1.1.1	1	AGL CEO	4	C
+4	4.0_Reward	00BF	1.1.1	1	Executive Board	5	C
+4	4.0_Reward	00BF	1.1.1	1	Exec Board member	6	C
+4	4.0_Reward	00BF	1.1.1	1	Market MD	7	C
+4	4.0_Reward	00BF	1.1.2	2	Trustees	1	I
+4	4.0_Reward	00BF	1.1.2	2	AGL Board	2	I
+4	4.0_Reward	00BF	1.1.2	2	Arup Group Chair	3	I
+4	4.0_Reward	00BF	1.1.2	2	AGL CEO	4	I
+4	4.0_Reward	00BF	1.1.2	2	Executive Board	5	I
+4	4.0_Reward	00BF	1.1.2	2	Exec Board member	6	I
+4	4.0_Reward	00BF	1.1.2	2	Market MD	7	I
+4	4.0_Reward	00BF	1.1.3	3	Trustees	1	C
+4	4.0_Reward	00BF	1.1.3	3	AGL Board	2	C
+4	4.0_Reward	00BF	1.1.3	3	Arup Group Chair	3	C
+4	4.0_Reward	00BF	1.1.3	3	AGL CEO	4	C
+4	4.0_Reward	00BF	1.1.3	3	Executive Board	5	C
+4	4.0_Reward	00BF	1.1.3	3	Exec Board member	6	C
+4	4.0_Reward	00BF	1.1.3	3	Market MD	7	A
+4	4.0_Reward	00BF	1.2.1	4	Trustees	1	I
+4	4.0_Reward	00BF	1.2.1	4	AGL Board	2	I
+4	4.0_Reward	00BF	1.2.1	4	Arup Group Chair	3	I
+4	4.0_Reward	00BF	1.2.1	4	AGL CEO	4	I
+4	4.0_Reward	00BF	1.2.1	4	Executive Board	5	I
+4	4.0_Reward	00BF	1.2.1	4	Exec Board member	6	I
+4	4.0_Reward	00BF	1.2.1	4	Market MD	7	I
+4	4.0_Reward	00BF	1.2.2	5	Trustees	1	A
+4	4.0_Reward	00BF	1.2.2	5	AGL Board	2	A
+4	4.0_Reward	00BF	1.2.2	5	Arup Group Chair	3	I
+4	4.0_Reward	00BF	1.2.2	5	AGL CEO	4	A
+4	4.0_Reward	00BF	1.2.2	5	Executive Board	5	A
+4	4.0_Reward	00BF	1.2.2	5	Exec Board member	6	I
+4	4.0_Reward	00BF	1.2.2	5	Market MD	7	A
+4	4.0_Reward	00BF	1.2.3	6	Trustees	1	C
+4	4.0_Reward	00BF	1.2.3	6	AGL Board	2	C
+4	4.0_Reward	00BF	1.2.3	6	Arup Group Chair	3	C
+4	4.0_Reward	00BF	1.2.3	6	AGL CEO	4	C
+4	4.0_Reward	00BF	1.2.3	6	Executive Board	5	C
+4	4.0_Reward	00BF	1.2.3	6	Exec Board member	6	C
+4	4.0_Reward	00BF	1.2.3	6	Market MD	7	C
+4	4.0_Reward	00BF	1.2.4	7	Trustees	1	I
+4	4.0_Reward	00BF	1.2.4	7	AGL Board	2	I
+4	4.0_Reward	00BF	1.2.4	7	Arup Group Chair	3	I
+4	4.0_Reward	00BF	1.2.4	7	AGL CEO	4	C
+4	4.0_Reward	00BF	1.2.4	7	Executive Board	5	I
+4	4.0_Reward	00BF	1.2.4	7	Exec Board member	6	I
+4	4.0_Reward	00BF	1.2.4	7	Market MD	7	I
+4	4.0_Reward	00BF	1.3.1	8	Trustees	1	A
+4	4.0_Reward	00BF	1.3.1	8	AGL Board	2	A
+4	4.0_Reward	00BF	1.3.1	8	Arup Group Chair	3	A
+4	4.0_Reward	00BF	1.3.1	8	AGL CEO	4	A
+4	4.0_Reward	00BF	1.3.1	8	Executive Board	5	A
+4	4.0_Reward	00BF	1.3.1	8	Exec Board member	6	A
+4	4.0_Reward	00BF	1.3.1	8	Market MD	7	R
+4	4.0_Reward	00BF	1.3.2	9	Trustees	1	C
+4	4.0_Reward	00BF	1.3.2	9	AGL Board	2	C
+4	4.0_Reward	00BF	1.3.2	9	Arup Group Chair	3	C
+4	4.0_Reward	00BF	1.3.2	9	AGL CEO	4	C
+4	4.0_Reward	00BF	1.3.2	9	Executive Board	5	C
+4	4.0_Reward	00BF	1.3.2	9	Exec Board member	6	C
+4	4.0_Reward	00BF	1.3.2	9	Market MD	7	C
+4	4.0_Reward	00BF	1.3.3	10	Trustees	1	I
+4	4.0_Reward	00BF	1.3.3	10	AGL Board	2	I
+4	4.0_Reward	00BF	1.3.3	10	Arup Group Chair	3	I
+4	4.0_Reward	00BF	1.3.3	10	AGL CEO	4	I
+4	4.0_Reward	00BF	1.3.3	10	Executive Board	5	I
+4	4.0_Reward	00BF	1.3.3	10	Exec Board member	6	I
+4	4.0_Reward	00BF	1.3.3	10	Market MD	7	I
+4	4.0_Reward	00BF	1.3.4	11	Trustees	1	I
+4	4.0_Reward	00BF	1.3.4	11	AGL Board	2	I
+4	4.0_Reward	00BF	1.3.4	11	Arup Group Chair	3	I
+4	4.0_Reward	00BF	1.3.4	11	AGL CEO	4	I
+4	4.0_Reward	00BF	1.3.4	11	Executive Board	5	I
+4	4.0_Reward	00BF	1.3.4	11	Exec Board member	6	I
+4	4.0_Reward	00BF	1.3.4	11	Market MD	7	I
+4	4.0_Reward	A0FD	1.1.1	1	Trustees	1	C
+4	4.0_Reward	A0FD	1.1.1	1	AGL Board	2	C
+4	4.0_Reward	A0FD	1.1.1	1	Arup Group Chair	3	C
+4	4.0_Reward	A0FD	1.1.1	1	AGL CEO	4	C
+4	4.0_Reward	A0FD	1.1.1	1	Executive Board	5	C
+4	4.0_Reward	A0FD	1.1.1	1	Exec Board member	6	C
+4	4.0_Reward	A0FD	1.1.1	1	Market MD	7	I
+4	4.0_Reward	A0FD	1.1.2	2	Trustees	1	C
+4	4.0_Reward	A0FD	1.1.2	2	AGL Board	2	C
+4	4.0_Reward	A0FD	1.1.2	2	Arup Group Chair	3	C
+4	4.0_Reward	A0FD	1.1.2	2	AGL CEO	4	C
+4	4.0_Reward	A0FD	1.1.2	2	Executive Board	5	C
+4	4.0_Reward	A0FD	1.1.2	2	Exec Board member	6	C
+4	4.0_Reward	A0FD	1.1.2	2	Market MD	7	C
+4	4.0_Reward	A0FD	1.1.3	3	Trustees	1	C
+4	4.0_Reward	A0FD	1.1.3	3	AGL Board	2	C
+4	4.0_Reward	A0FD	1.1.3	3	Arup Group Chair	3	C
+4	4.0_Reward	A0FD	1.1.3	3	AGL CEO	4	C
+4	4.0_Reward	A0FD	1.1.3	3	Executive Board	5	C
+4	4.0_Reward	A0FD	1.1.3	3	Exec Board member	6	C
+4	4.0_Reward	A0FD	1.1.3	3	Market MD	7	C
+4	4.0_Reward	A0FD	1.2.1	4	Trustees	1	I
+4	4.0_Reward	A0FD	1.2.1	4	AGL Board	2	I
+4	4.0_Reward	A0FD	1.2.1	4	Arup Group Chair	3	I
+4	4.0_Reward	A0FD	1.2.1	4	AGL CEO	4	I
+4	4.0_Reward	A0FD	1.2.1	4	Executive Board	5	I
+4	4.0_Reward	A0FD	1.2.1	4	Exec Board member	6	I
+4	4.0_Reward	A0FD	1.2.1	4	Market MD	7	I
+4	4.0_Reward	A0FD	1.2.2	5	Trustees	1	I
+4	4.0_Reward	A0FD	1.2.2	5	AGL Board	2	I
+4	4.0_Reward	A0FD	1.2.2	5	Arup Group Chair	3	I
+4	4.0_Reward	A0FD	1.2.2	5	AGL CEO	4	I
+4	4.0_Reward	A0FD	1.2.2	5	Executive Board	5	I
+4	4.0_Reward	A0FD	1.2.2	5	Exec Board member	6	I
+4	4.0_Reward	A0FD	1.2.2	5	Market MD	7	I
+4	4.0_Reward	A0FD	1.2.3	6	Trustees	1	A
+4	4.0_Reward	A0FD	1.2.3	6	AGL Board	2	A
+4	4.0_Reward	A0FD	1.2.3	6	Arup Group Chair	3	A
+4	4.0_Reward	A0FD	1.2.3	6	AGL CEO	4	A
+4	4.0_Reward	A0FD	1.2.3	6	Executive Board	5	A
+4	4.0_Reward	A0FD	1.2.3	6	Exec Board member	6	I
+4	4.0_Reward	A0FD	1.2.3	6	Market MD	7	A
+4	4.0_Reward	A0FD	1.2.4	7	Trustees	1	I
+4	4.0_Reward	A0FD	1.2.4	7	AGL Board	2	I
+4	4.0_Reward	A0FD	1.2.4	7	Arup Group Chair	3	I
+4	4.0_Reward	A0FD	1.2.4	7	AGL CEO	4	I
+4	4.0_Reward	A0FD	1.2.4	7	Executive Board	5	I
+4	4.0_Reward	A0FD	1.2.4	7	Exec Board member	6	I
+4	4.0_Reward	A0FD	1.2.4	7	Market MD	7	I
+4	4.0_Reward	A0FD	1.3.1	8	Trustees	1	I
+4	4.0_Reward	A0FD	1.3.1	8	AGL Board	2	I
+4	4.0_Reward	A0FD	1.3.1	8	Arup Group Chair	3	I
+4	4.0_Reward	A0FD	1.3.1	8	AGL CEO	4	I
+4	4.0_Reward	A0FD	1.3.1	8	Executive Board	5	I
+4	4.0_Reward	A0FD	1.3.1	8	Exec Board member	6	I
+4	4.0_Reward	A0FD	1.3.1	8	Market MD	7	I
+4	4.0_Reward	A0FD	1.3.2	9	Trustees	1	C
+4	4.0_Reward	A0FD	1.3.2	9	AGL Board	2	C
+4	4.0_Reward	A0FD	1.3.2	9	Arup Group Chair	3	C
+4	4.0_Reward	A0FD	1.3.2	9	AGL CEO	4	C
+4	4.0_Reward	A0FD	1.3.2	9	Executive Board	5	C
+4	4.0_Reward	A0FD	1.3.2	9	Exec Board member	6	C
+4	4.0_Reward	A0FD	1.3.2	9	Market MD	7	C
+4	4.0_Reward	A0FD	1.3.3	10	Trustees	1	A
+4	4.0_Reward	A0FD	1.3.3	10	AGL Board	2	A
+4	4.0_Reward	A0FD	1.3.3	10	Arup Group Chair	3	A
+4	4.0_Reward	A0FD	1.3.3	10	AGL CEO	4	A
+4	4.0_Reward	A0FD	1.3.3	10	Executive Board	5	A
+4	4.0_Reward	A0FD	1.3.3	10	Exec Board member	6	A
+4	4.0_Reward	A0FD	1.3.3	10	Market MD	7	A
+4	4.0_Reward	A0FD	1.3.4	11	Trustees	1	I
+4	4.0_Reward	A0FD	1.3.4	11	AGL Board	2	I
+4	4.0_Reward	A0FD	1.3.4	11	Arup Group Chair	3	C
+4	4.0_Reward	A0FD	1.3.4	11	AGL CEO	4	I
+4	4.0_Reward	A0FD	1.3.4	11	Executive Board	5	C
+4	4.0_Reward	A0FD	1.3.4	11	Exec Board member	6	I
+4	4.0_Reward	A0FD	1.3.4	11	Market MD	7	I
+4	4.0_Reward	BFFF	1.1.1	1	Trustees	1	C
+4	4.0_Reward	BFFF	1.1.1	1	AGL Board	2	C
+4	4.0_Reward	BFFF	1.1.1	1	Arup Group Chair	3	I
+4	4.0_Reward	BFFF	1.1.1	1	AGL CEO	4	I
+4	4.0_Reward	BFFF	1.1.1	1	Executive Board	5	C
+4	4.0_Reward	BFFF	1.1.1	1	Exec Board member	6	C
+4	4.0_Reward	BFFF	1.1.1	1	Market MD	7	C
+4	4.0_Reward	BFFF	1.1.2	2	Trustees	1	I
+4	4.0_Reward	BFFF	1.1.2	2	AGL Board	2	I
+4	4.0_Reward	BFFF	1.1.2	2	Arup Group Chair	3	I
+4	4.0_Reward	BFFF	1.1.2	2	AGL CEO	4	I
+4	4.0_Reward	BFFF	1.1.2	2	Executive Board	5	I
+4	4.0_Reward	BFFF	1.1.2	2	Exec Board member	6	I
+4	4.0_Reward	BFFF	1.1.2	2	Market MD	7	I
+4	4.0_Reward	BFFF	1.1.3	3	Trustees	1	C
+4	4.0_Reward	BFFF	1.1.3	3	AGL Board	2	C
+4	4.0_Reward	BFFF	1.1.3	3	Arup Group Chair	3	C
+4	4.0_Reward	BFFF	1.1.3	3	AGL CEO	4	C
+4	4.0_Reward	BFFF	1.1.3	3	Executive Board	5	C
+4	4.0_Reward	BFFF	1.1.3	3	Exec Board member	6	C
+4	4.0_Reward	BFFF	1.1.3	3	Market MD	7	C
+4	4.0_Reward	BFFF	1.2.1	4	Trustees	1	I
+4	4.0_Reward	BFFF	1.2.1	4	AGL Board	2	I
+4	4.0_Reward	BFFF	1.2.1	4	Arup Group Chair	3	I
+4	4.0_Reward	BFFF	1.2.1	4	AGL CEO	4	I
+4	4.0_Reward	BFFF	1.2.1	4	Executive Board	5	I
+4	4.0_Reward	BFFF	1.2.1	4	Exec Board member	6	I
+4	4.0_Reward	BFFF	1.2.1	4	Market MD	7	I
+4	4.0_Reward	BFFF	1.2.2	5	Trustees	1	C
+4	4.0_Reward	BFFF	1.2.2	5	AGL Board	2	C
+4	4.0_Reward	BFFF	1.2.2	5	Arup Group Chair	3	C
+4	4.0_Reward	BFFF	1.2.2	5	AGL CEO	4	C
+4	4.0_Reward	BFFF	1.2.2	5	Executive Board	5	C
+4	4.0_Reward	BFFF	1.2.2	5	Exec Board member	6	I
+4	4.0_Reward	BFFF	1.2.2	5	Market MD	7	I
+4	4.0_Reward	BFFF	1.2.3	6	Trustees	1	I
+4	4.0_Reward	BFFF	1.2.3	6	AGL Board	2	I
+4	4.0_Reward	BFFF	1.2.3	6	Arup Group Chair	3	I
+4	4.0_Reward	BFFF	1.2.3	6	AGL CEO	4	I
+4	4.0_Reward	BFFF	1.2.3	6	Executive Board	5	I
+4	4.0_Reward	BFFF	1.2.3	6	Exec Board member	6	I
+4	4.0_Reward	BFFF	1.2.3	6	Market MD	7	I
+4	4.0_Reward	BFFF	1.2.4	7	Trustees	1	C
+4	4.0_Reward	BFFF	1.2.4	7	AGL Board	2	C
+4	4.0_Reward	BFFF	1.2.4	7	Arup Group Chair	3	C
+4	4.0_Reward	BFFF	1.2.4	7	AGL CEO	4	C
+4	4.0_Reward	BFFF	1.2.4	7	Executive Board	5	C
+4	4.0_Reward	BFFF	1.2.4	7	Exec Board member	6	I
+4	4.0_Reward	BFFF	1.2.4	7	Market MD	7	I
+4	4.0_Reward	BFFF	1.3.1	8	Trustees	1	C
+4	4.0_Reward	BFFF	1.3.1	8	AGL Board	2	C
+4	4.0_Reward	BFFF	1.3.1	8	Arup Group Chair	3	C
+4	4.0_Reward	BFFF	1.3.1	8	AGL CEO	4	C
+4	4.0_Reward	BFFF	1.3.1	8	Executive Board	5	C
+4	4.0_Reward	BFFF	1.3.1	8	Exec Board member	6	C
+4	4.0_Reward	BFFF	1.3.1	8	Market MD	7	C
+4	4.0_Reward	BFFF	1.3.2	9	Trustees	1	C
+4	4.0_Reward	BFFF	1.3.2	9	AGL Board	2	C
+4	4.0_Reward	BFFF	1.3.2	9	Arup Group Chair	3	C
+4	4.0_Reward	BFFF	1.3.2	9	AGL CEO	4	C
+4	4.0_Reward	BFFF	1.3.2	9	Executive Board	5	C
+4	4.0_Reward	BFFF	1.3.2	9	Exec Board member	6	A
+4	4.0_Reward	BFFF	1.3.2	9	Market MD	7	I
+4	4.0_Reward	BFFF	1.3.3	10	Trustees	1	C
+4	4.0_Reward	BFFF	1.3.3	10	AGL Board	2	C
+4	4.0_Reward	BFFF	1.3.3	10	Arup Group Chair	3	C
+4	4.0_Reward	BFFF	1.3.3	10	AGL CEO	4	C
+4	4.0_Reward	BFFF	1.3.3	10	Executive Board	5	C
+4	4.0_Reward	BFFF	1.3.3	10	Exec Board member	6	C
+4	4.0_Reward	BFFF	1.3.3	10	Market MD	7	C
+4	4.0_Reward	BFFF	1.3.4	11	Trustees	1	A
+4	4.0_Reward	BFFF	1.3.4	11	AGL Board	2	A
+4	4.0_Reward	BFFF	1.3.4	11	Arup Group Chair	3	A
+4	4.0_Reward	BFFF	1.3.4	11	AGL CEO	4	A
+4	4.0_Reward	BFFF	1.3.4	11	Executive Board	5	A
+4	4.0_Reward	BFFF	1.3.4	11	Exec Board member	6	A
+4	4.0_Reward	BFFF	1.3.4	11	Market MD	7	A
+4	4.0_Reward	FE0A	1.1.1	1	Trustees	1	A
+4	4.0_Reward	FE0A	1.1.1	1	AGL Board	2	A
+4	4.0_Reward	FE0A	1.1.1	1	Arup Group Chair	3	A
+4	4.0_Reward	FE0A	1.1.1	1	AGL CEO	4	A
+4	4.0_Reward	FE0A	1.1.1	1	Executive Board	5	A
+4	4.0_Reward	FE0A	1.1.1	1	Exec Board member	6	A
+4	4.0_Reward	FE0A	1.1.1	1	Market MD	7	A
+4	4.0_Reward	FE0A	1.1.2	2	Trustees	1	C
+4	4.0_Reward	FE0A	1.1.2	2	AGL Board	2	C
+4	4.0_Reward	FE0A	1.1.2	2	Arup Group Chair	3	C
+4	4.0_Reward	FE0A	1.1.2	2	AGL CEO	4	C
+4	4.0_Reward	FE0A	1.1.2	2	Executive Board	5	C
+4	4.0_Reward	FE0A	1.1.2	2	Exec Board member	6	C
+4	4.0_Reward	FE0A	1.1.2	2	Market MD	7	C
+4	4.0_Reward	FE0A	1.1.3	3	Trustees	1	C
+4	4.0_Reward	FE0A	1.1.3	3	AGL Board	2	I
+4	4.0_Reward	FE0A	1.1.3	3	Arup Group Chair	3	C
+4	4.0_Reward	FE0A	1.1.3	3	AGL CEO	4	C
+4	4.0_Reward	FE0A	1.1.3	3	Executive Board	5	C
+4	4.0_Reward	FE0A	1.1.3	3	Exec Board member	6	C
+4	4.0_Reward	FE0A	1.1.3	3	Market MD	7	C
+4	4.0_Reward	FE0A	1.2.1	4	Trustees	1	I
+4	4.0_Reward	FE0A	1.2.1	4	AGL Board	2	I
+4	4.0_Reward	FE0A	1.2.1	4	Arup Group Chair	3	I
+4	4.0_Reward	FE0A	1.2.1	4	AGL CEO	4	I
+4	4.0_Reward	FE0A	1.2.1	4	Executive Board	5	I
+4	4.0_Reward	FE0A	1.2.1	4	Exec Board member	6	I
+4	4.0_Reward	FE0A	1.2.1	4	Market MD	7	I
+4	4.0_Reward	FE0A	1.2.2	5	Trustees	1	C
+4	4.0_Reward	FE0A	1.2.2	5	AGL Board	2	C
+4	4.0_Reward	FE0A	1.2.2	5	Arup Group Chair	3	C
+4	4.0_Reward	FE0A	1.2.2	5	AGL CEO	4	C
+4	4.0_Reward	FE0A	1.2.2	5	Executive Board	5	C
+4	4.0_Reward	FE0A	1.2.2	5	Exec Board member	6	C
+4	4.0_Reward	FE0A	1.2.2	5	Market MD	7	C
+4	4.0_Reward	FE0A	1.2.3	6	Trustees	1	C
+4	4.0_Reward	FE0A	1.2.3	6	AGL Board	2	C
+4	4.0_Reward	FE0A	1.2.3	6	Arup Group Chair	3	I
+4	4.0_Reward	FE0A	1.2.3	6	AGL CEO	4	C
+4	4.0_Reward	FE0A	1.2.3	6	Executive Board	5	C
+4	4.0_Reward	FE0A	1.2.3	6	Exec Board member	6	C
+4	4.0_Reward	FE0A	1.2.3	6	Market MD	7	C
+4	4.0_Reward	FE0A	1.2.4	7	Trustees	1	C
+4	4.0_Reward	FE0A	1.2.4	7	AGL Board	2	C
+4	4.0_Reward	FE0A	1.2.4	7	Arup Group Chair	3	C
+4	4.0_Reward	FE0A	1.2.4	7	AGL CEO	4	C
+4	4.0_Reward	FE0A	1.2.4	7	Executive Board	5	C
+4	4.0_Reward	FE0A	1.2.4	7	Exec Board member	6	C
+4	4.0_Reward	FE0A	1.2.4	7	Market MD	7	C
+4	4.0_Reward	FE0A	1.3.1	8	Trustees	1	I
+4	4.0_Reward	FE0A	1.3.1	8	AGL Board	2	I
+4	4.0_Reward	FE0A	1.3.1	8	Arup Group Chair	3	I
+4	4.0_Reward	FE0A	1.3.1	8	AGL CEO	4	I
+4	4.0_Reward	FE0A	1.3.1	8	Executive Board	5	I
+4	4.0_Reward	FE0A	1.3.1	8	Exec Board member	6	I
+4	4.0_Reward	FE0A	1.3.1	8	Market MD	7	I
+4	4.0_Reward	FE0A	1.3.2	9	Trustees	1	C
+4	4.0_Reward	FE0A	1.3.2	9	AGL Board	2	C
+4	4.0_Reward	FE0A	1.3.2	9	Arup Group Chair	3	C
+4	4.0_Reward	FE0A	1.3.2	9	AGL CEO	4	C
+4	4.0_Reward	FE0A	1.3.2	9	Executive Board	5	C
+4	4.0_Reward	FE0A	1.3.2	9	Exec Board member	6	C
+4	4.0_Reward	FE0A	1.3.2	9	Market MD	7	C
+4	4.0_Reward	FE0A	1.3.3	10	Trustees	1	I
+4	4.0_Reward	FE0A	1.3.3	10	AGL Board	2	I
+4	4.0_Reward	FE0A	1.3.3	10	Arup Group Chair	3	I
+4	4.0_Reward	FE0A	1.3.3	10	AGL CEO	4	I
+4	4.0_Reward	FE0A	1.3.3	10	Executive Board	5	I
+4	4.0_Reward	FE0A	1.3.3	10	Exec Board member	6	I
+4	4.0_Reward	FE0A	1.3.3	10	Market MD	7	I
+4	4.0_Reward	FE0A	1.3.4	11	Trustees	1	I
+4	4.0_Reward	FE0A	1.3.4	11	AGL Board	2	I
+4	4.0_Reward	FE0A	1.3.4	11	Arup Group Chair	3	I
+4	4.0_Reward	FE0A	1.3.4	11	AGL CEO	4	I
+4	4.0_Reward	FE0A	1.3.4	11	Executive Board	5	I
+4	4.0_Reward	FE0A	1.3.4	11	Exec Board member	6	I
+4	4.0_Reward	FE0A	1.3.4	11	Market MD	7	I
+6	5.0_Structure_&_Organisation	0BFF	1.1.1	1	Trustees	1	C
+6	5.0_Structure_&_Organisation	0BFF	1.1.1	1	AGL Board	2	C
+6	5.0_Structure_&_Organisation	0BFF	1.1.1	1	Arup Group Chair	3	C
+6	5.0_Structure_&_Organisation	0BFF	1.1.1	1	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	0BFF	1.1.1	1	Executive Board	5	C
+6	5.0_Structure_&_Organisation	0BFF	1.1.1	1	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	0BFF	1.1.1	1	Market MD	7	C
+6	5.0_Structure_&_Organisation	0BFF	1.1.2	2	Trustees	1	A
+6	5.0_Structure_&_Organisation	0BFF	1.1.2	2	AGL Board	2	A
+6	5.0_Structure_&_Organisation	0BFF	1.1.2	2	Arup Group Chair	3	A
+6	5.0_Structure_&_Organisation	0BFF	1.1.2	2	AGL CEO	4	A
+6	5.0_Structure_&_Organisation	0BFF	1.1.2	2	Executive Board	5	C
+6	5.0_Structure_&_Organisation	0BFF	1.1.2	2	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	0BFF	1.1.2	2	Market MD	7	A
+6	5.0_Structure_&_Organisation	0BFF	1.1.3	3	Trustees	1	I
+6	5.0_Structure_&_Organisation	0BFF	1.1.3	3	AGL Board	2	I
+6	5.0_Structure_&_Organisation	0BFF	1.1.3	3	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	0BFF	1.1.3	3	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	0BFF	1.1.3	3	Executive Board	5	I
+6	5.0_Structure_&_Organisation	0BFF	1.1.3	3	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	0BFF	1.1.3	3	Market MD	7	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.1	4	Trustees	1	C
+6	5.0_Structure_&_Organisation	0BFF	1.2.1	4	AGL Board	2	C
+6	5.0_Structure_&_Organisation	0BFF	1.2.1	4	Arup Group Chair	3	C
+6	5.0_Structure_&_Organisation	0BFF	1.2.1	4	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	0BFF	1.2.1	4	Executive Board	5	C
+6	5.0_Structure_&_Organisation	0BFF	1.2.1	4	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	0BFF	1.2.1	4	Market MD	7	C
+6	5.0_Structure_&_Organisation	0BFF	1.2.2	5	Trustees	1	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.2	5	AGL Board	2	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.2	5	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.2	5	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.2	5	Executive Board	5	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.2	5	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.2	5	Market MD	7	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.3	6	Trustees	1	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.3	6	AGL Board	2	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.3	6	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.3	6	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.3	6	Executive Board	5	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.3	6	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.3	6	Market MD	7	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.4	7	Trustees	1	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.4	7	AGL Board	2	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.4	7	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.4	7	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.4	7	Executive Board	5	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.4	7	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	0BFF	1.2.4	7	Market MD	7	I
+6	5.0_Structure_&_Organisation	0BFF	1.3.1	8	Trustees	1	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.1	8	AGL Board	2	A
+6	5.0_Structure_&_Organisation	0BFF	1.3.1	8	Arup Group Chair	3	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.1	8	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.1	8	Executive Board	5	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.1	8	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.1	8	Market MD	7	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.2	9	Trustees	1	I
+6	5.0_Structure_&_Organisation	0BFF	1.3.2	9	AGL Board	2	I
+6	5.0_Structure_&_Organisation	0BFF	1.3.2	9	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	0BFF	1.3.2	9	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	0BFF	1.3.2	9	Executive Board	5	I
+6	5.0_Structure_&_Organisation	0BFF	1.3.2	9	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	0BFF	1.3.2	9	Market MD	7	I
+6	5.0_Structure_&_Organisation	0BFF	1.3.3	10	Trustees	1	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.3	10	AGL Board	2	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.3	10	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	0BFF	1.3.3	10	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.3	10	Executive Board	5	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.3	10	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.3	10	Market MD	7	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.4	11	Trustees	1	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.4	11	AGL Board	2	I
+6	5.0_Structure_&_Organisation	0BFF	1.3.4	11	Arup Group Chair	3	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.4	11	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.4	11	Executive Board	5	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.4	11	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	0BFF	1.3.4	11	Market MD	7	C
+6	5.0_Structure_&_Organisation	0CAD	1.1.1	1	Trustees	1	C
+6	5.0_Structure_&_Organisation	0CAD	1.1.1	1	AGL Board	2	C
+6	5.0_Structure_&_Organisation	0CAD	1.1.1	1	Arup Group Chair	3	C
+6	5.0_Structure_&_Organisation	0CAD	1.1.1	1	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	0CAD	1.1.1	1	Executive Board	5	C
+6	5.0_Structure_&_Organisation	0CAD	1.1.1	1	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	0CAD	1.1.1	1	Market MD	7	C
+6	5.0_Structure_&_Organisation	0CAD	1.1.2	2	Trustees	1	I
+6	5.0_Structure_&_Organisation	0CAD	1.1.2	2	AGL Board	2	I
+6	5.0_Structure_&_Organisation	0CAD	1.1.2	2	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	0CAD	1.1.2	2	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	0CAD	1.1.2	2	Executive Board	5	I
+6	5.0_Structure_&_Organisation	0CAD	1.1.2	2	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	0CAD	1.1.2	2	Market MD	7	I
+6	5.0_Structure_&_Organisation	0CAD	1.1.3	3	Trustees	1	A
+6	5.0_Structure_&_Organisation	0CAD	1.1.3	3	AGL Board	2	A
+6	5.0_Structure_&_Organisation	0CAD	1.1.3	3	Arup Group Chair	3	A
+6	5.0_Structure_&_Organisation	0CAD	1.1.3	3	AGL CEO	4	A
+6	5.0_Structure_&_Organisation	0CAD	1.1.3	3	Executive Board	5	A
+6	5.0_Structure_&_Organisation	0CAD	1.1.3	3	Exec Board member	6	A
+6	5.0_Structure_&_Organisation	0CAD	1.1.3	3	Market MD	7	A
+6	5.0_Structure_&_Organisation	0CAD	1.2.1	4	Trustees	1	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.1	4	AGL Board	2	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.1	4	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.1	4	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.1	4	Executive Board	5	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.1	4	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.1	4	Market MD	7	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.2	5	Trustees	1	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.2	5	AGL Board	2	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.2	5	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.2	5	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.2	5	Executive Board	5	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.2	5	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.2	5	Market MD	7	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.3	6	Trustees	1	C
+6	5.0_Structure_&_Organisation	0CAD	1.2.3	6	AGL Board	2	C
+6	5.0_Structure_&_Organisation	0CAD	1.2.3	6	Arup Group Chair	3	C
+6	5.0_Structure_&_Organisation	0CAD	1.2.3	6	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	0CAD	1.2.3	6	Executive Board	5	C
+6	5.0_Structure_&_Organisation	0CAD	1.2.3	6	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	0CAD	1.2.3	6	Market MD	7	C
+6	5.0_Structure_&_Organisation	0CAD	1.2.4	7	Trustees	1	A
+6	5.0_Structure_&_Organisation	0CAD	1.2.4	7	AGL Board	2	I
+6	5.0_Structure_&_Organisation	0CAD	1.2.4	7	Arup Group Chair	3	A
+6	5.0_Structure_&_Organisation	0CAD	1.2.4	7	AGL CEO	4	A
+6	5.0_Structure_&_Organisation	0CAD	1.2.4	7	Executive Board	5	A
+6	5.0_Structure_&_Organisation	0CAD	1.2.4	7	Exec Board member	6	A
+6	5.0_Structure_&_Organisation	0CAD	1.2.4	7	Market MD	7	A
+6	5.0_Structure_&_Organisation	0CAD	1.3.1	8	Trustees	1	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.1	8	AGL Board	2	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.1	8	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.1	8	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.1	8	Executive Board	5	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.1	8	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.1	8	Market MD	7	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.2	9	Trustees	1	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.2	9	AGL Board	2	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.2	9	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.2	9	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.2	9	Executive Board	5	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.2	9	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.2	9	Market MD	7	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.3	10	Trustees	1	C
+6	5.0_Structure_&_Organisation	0CAD	1.3.3	10	AGL Board	2	C
+6	5.0_Structure_&_Organisation	0CAD	1.3.3	10	Arup Group Chair	3	C
+6	5.0_Structure_&_Organisation	0CAD	1.3.3	10	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	0CAD	1.3.3	10	Executive Board	5	C
+6	5.0_Structure_&_Organisation	0CAD	1.3.3	10	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	0CAD	1.3.3	10	Market MD	7	C
+6	5.0_Structure_&_Organisation	0CAD	1.3.4	11	Trustees	1	C
+6	5.0_Structure_&_Organisation	0CAD	1.3.4	11	AGL Board	2	C
+6	5.0_Structure_&_Organisation	0CAD	1.3.4	11	Arup Group Chair	3	C
+6	5.0_Structure_&_Organisation	0CAD	1.3.4	11	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	0CAD	1.3.4	11	Executive Board	5	C
+6	5.0_Structure_&_Organisation	0CAD	1.3.4	11	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	0CAD	1.3.4	11	Market MD	7	C
+6	5.0_Structure_&_Organisation	ACED	1.1.1	1	Trustees	1	I
+6	5.0_Structure_&_Organisation	ACED	1.1.1	1	AGL Board	2	I
+6	5.0_Structure_&_Organisation	ACED	1.1.1	1	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	ACED	1.1.1	1	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	ACED	1.1.1	1	Executive Board	5	I
+6	5.0_Structure_&_Organisation	ACED	1.1.1	1	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	ACED	1.1.1	1	Market MD	7	I
+6	5.0_Structure_&_Organisation	ACED	1.1.2	2	Trustees	1	I
+6	5.0_Structure_&_Organisation	ACED	1.1.2	2	AGL Board	2	I
+6	5.0_Structure_&_Organisation	ACED	1.1.2	2	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	ACED	1.1.2	2	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	ACED	1.1.2	2	Executive Board	5	I
+6	5.0_Structure_&_Organisation	ACED	1.1.2	2	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	ACED	1.1.2	2	Market MD	7	I
+6	5.0_Structure_&_Organisation	ACED	1.1.3	3	Trustees	1	I
+6	5.0_Structure_&_Organisation	ACED	1.1.3	3	AGL Board	2	I
+6	5.0_Structure_&_Organisation	ACED	1.1.3	3	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	ACED	1.1.3	3	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	ACED	1.1.3	3	Executive Board	5	I
+6	5.0_Structure_&_Organisation	ACED	1.1.3	3	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	ACED	1.1.3	3	Market MD	7	I
+6	5.0_Structure_&_Organisation	ACED	1.2.1	4	Trustees	1	I
+6	5.0_Structure_&_Organisation	ACED	1.2.1	4	AGL Board	2	I
+6	5.0_Structure_&_Organisation	ACED	1.2.1	4	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	ACED	1.2.1	4	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	ACED	1.2.1	4	Executive Board	5	I
+6	5.0_Structure_&_Organisation	ACED	1.2.1	4	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	ACED	1.2.1	4	Market MD	7	I
+6	5.0_Structure_&_Organisation	ACED	1.2.2	5	Trustees	1	I
+6	5.0_Structure_&_Organisation	ACED	1.2.2	5	AGL Board	2	I
+6	5.0_Structure_&_Organisation	ACED	1.2.2	5	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	ACED	1.2.2	5	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	ACED	1.2.2	5	Executive Board	5	I
+6	5.0_Structure_&_Organisation	ACED	1.2.2	5	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	ACED	1.2.2	5	Market MD	7	I
+6	5.0_Structure_&_Organisation	ACED	1.2.3	6	Trustees	1	I
+6	5.0_Structure_&_Organisation	ACED	1.2.3	6	AGL Board	2	I
+6	5.0_Structure_&_Organisation	ACED	1.2.3	6	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	ACED	1.2.3	6	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	ACED	1.2.3	6	Executive Board	5	I
+6	5.0_Structure_&_Organisation	ACED	1.2.3	6	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	ACED	1.2.3	6	Market MD	7	I
+6	5.0_Structure_&_Organisation	ACED	1.2.4	7	Trustees	1	C
+6	5.0_Structure_&_Organisation	ACED	1.2.4	7	AGL Board	2	C
+6	5.0_Structure_&_Organisation	ACED	1.2.4	7	Arup Group Chair	3	C
+6	5.0_Structure_&_Organisation	ACED	1.2.4	7	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	ACED	1.2.4	7	Executive Board	5	C
+6	5.0_Structure_&_Organisation	ACED	1.2.4	7	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	ACED	1.2.4	7	Market MD	7	C
+6	5.0_Structure_&_Organisation	ACED	1.3.1	8	Trustees	1	I
+6	5.0_Structure_&_Organisation	ACED	1.3.1	8	AGL Board	2	I
+6	5.0_Structure_&_Organisation	ACED	1.3.1	8	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	ACED	1.3.1	8	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	ACED	1.3.1	8	Executive Board	5	I
+6	5.0_Structure_&_Organisation	ACED	1.3.1	8	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	ACED	1.3.1	8	Market MD	7	I
+6	5.0_Structure_&_Organisation	ACED	1.3.2	9	Trustees	1	I
+6	5.0_Structure_&_Organisation	ACED	1.3.2	9	AGL Board	2	C
+6	5.0_Structure_&_Organisation	ACED	1.3.2	9	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	ACED	1.3.2	9	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	ACED	1.3.2	9	Executive Board	5	I
+6	5.0_Structure_&_Organisation	ACED	1.3.2	9	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	ACED	1.3.2	9	Market MD	7	I
+6	5.0_Structure_&_Organisation	ACED	1.3.3	10	Trustees	1	I
+6	5.0_Structure_&_Organisation	ACED	1.3.3	10	AGL Board	2	I
+6	5.0_Structure_&_Organisation	ACED	1.3.3	10	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	ACED	1.3.3	10	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	ACED	1.3.3	10	Executive Board	5	I
+6	5.0_Structure_&_Organisation	ACED	1.3.3	10	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	ACED	1.3.3	10	Market MD	7	R
+6	5.0_Structure_&_Organisation	ACED	1.3.4	11	Trustees	1	I
+6	5.0_Structure_&_Organisation	ACED	1.3.4	11	AGL Board	2	I
+6	5.0_Structure_&_Organisation	ACED	1.3.4	11	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	ACED	1.3.4	11	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	ACED	1.3.4	11	Executive Board	5	I
+6	5.0_Structure_&_Organisation	ACED	1.3.4	11	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	ACED	1.3.4	11	Market MD	7	I
+6	5.0_Structure_&_Organisation	CFC0	1.1.1	1	Trustees	1	A
+6	5.0_Structure_&_Organisation	CFC0	1.1.1	1	AGL Board	2	A
+6	5.0_Structure_&_Organisation	CFC0	1.1.1	1	Arup Group Chair	3	A
+6	5.0_Structure_&_Organisation	CFC0	1.1.1	1	AGL CEO	4	A
+6	5.0_Structure_&_Organisation	CFC0	1.1.1	1	Executive Board	5	A
+6	5.0_Structure_&_Organisation	CFC0	1.1.1	1	Exec Board member	6	A
+6	5.0_Structure_&_Organisation	CFC0	1.1.1	1	Market MD	7	A
+6	5.0_Structure_&_Organisation	CFC0	1.1.2	2	Trustees	1	C
+6	5.0_Structure_&_Organisation	CFC0	1.1.2	2	AGL Board	2	C
+6	5.0_Structure_&_Organisation	CFC0	1.1.2	2	Arup Group Chair	3	C
+6	5.0_Structure_&_Organisation	CFC0	1.1.2	2	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	CFC0	1.1.2	2	Executive Board	5	C
+6	5.0_Structure_&_Organisation	CFC0	1.1.2	2	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	CFC0	1.1.2	2	Market MD	7	C
+6	5.0_Structure_&_Organisation	CFC0	1.1.3	3	Trustees	1	I
+6	5.0_Structure_&_Organisation	CFC0	1.1.3	3	AGL Board	2	I
+6	5.0_Structure_&_Organisation	CFC0	1.1.3	3	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	CFC0	1.1.3	3	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	CFC0	1.1.3	3	Executive Board	5	I
+6	5.0_Structure_&_Organisation	CFC0	1.1.3	3	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	CFC0	1.1.3	3	Market MD	7	I
+6	5.0_Structure_&_Organisation	CFC0	1.2.1	4	Trustees	1	I
+6	5.0_Structure_&_Organisation	CFC0	1.2.1	4	AGL Board	2	I
+6	5.0_Structure_&_Organisation	CFC0	1.2.1	4	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	CFC0	1.2.1	4	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	CFC0	1.2.1	4	Executive Board	5	I
+6	5.0_Structure_&_Organisation	CFC0	1.2.1	4	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	CFC0	1.2.1	4	Market MD	7	I
+6	5.0_Structure_&_Organisation	CFC0	1.2.2	5	Trustees	1	I
+6	5.0_Structure_&_Organisation	CFC0	1.2.2	5	AGL Board	2	I
+6	5.0_Structure_&_Organisation	CFC0	1.2.2	5	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	CFC0	1.2.2	5	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	CFC0	1.2.2	5	Executive Board	5	I
+6	5.0_Structure_&_Organisation	CFC0	1.2.2	5	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	CFC0	1.2.2	5	Market MD	7	I
+6	5.0_Structure_&_Organisation	CFC0	1.2.3	6	Trustees	1	C
+6	5.0_Structure_&_Organisation	CFC0	1.2.3	6	AGL Board	2	C
+6	5.0_Structure_&_Organisation	CFC0	1.2.3	6	Arup Group Chair	3	C
+6	5.0_Structure_&_Organisation	CFC0	1.2.3	6	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	CFC0	1.2.3	6	Executive Board	5	C
+6	5.0_Structure_&_Organisation	CFC0	1.2.3	6	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	CFC0	1.2.3	6	Market MD	7	C
+6	5.0_Structure_&_Organisation	CFC0	1.2.4	7	Trustees	1	C
+6	5.0_Structure_&_Organisation	CFC0	1.2.4	7	AGL Board	2	C
+6	5.0_Structure_&_Organisation	CFC0	1.2.4	7	Arup Group Chair	3	C
+6	5.0_Structure_&_Organisation	CFC0	1.2.4	7	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	CFC0	1.2.4	7	Executive Board	5	C
+6	5.0_Structure_&_Organisation	CFC0	1.2.4	7	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	CFC0	1.2.4	7	Market MD	7	I
+6	5.0_Structure_&_Organisation	CFC0	1.3.1	8	Trustees	1	C
+6	5.0_Structure_&_Organisation	CFC0	1.3.1	8	AGL Board	2	C
+6	5.0_Structure_&_Organisation	CFC0	1.3.1	8	Arup Group Chair	3	C
+6	5.0_Structure_&_Organisation	CFC0	1.3.1	8	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	CFC0	1.3.1	8	Executive Board	5	C
+6	5.0_Structure_&_Organisation	CFC0	1.3.1	8	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	CFC0	1.3.1	8	Market MD	7	C
+6	5.0_Structure_&_Organisation	CFC0	1.3.2	9	Trustees	1	I
+6	5.0_Structure_&_Organisation	CFC0	1.3.2	9	AGL Board	2	I
+6	5.0_Structure_&_Organisation	CFC0	1.3.2	9	Arup Group Chair	3	I
+6	5.0_Structure_&_Organisation	CFC0	1.3.2	9	AGL CEO	4	I
+6	5.0_Structure_&_Organisation	CFC0	1.3.2	9	Executive Board	5	I
+6	5.0_Structure_&_Organisation	CFC0	1.3.2	9	Exec Board member	6	I
+6	5.0_Structure_&_Organisation	CFC0	1.3.2	9	Market MD	7	I
+6	5.0_Structure_&_Organisation	CFC0	1.3.3	10	Trustees	1	C
+6	5.0_Structure_&_Organisation	CFC0	1.3.3	10	AGL Board	2	C
+6	5.0_Structure_&_Organisation	CFC0	1.3.3	10	Arup Group Chair	3	C
+6	5.0_Structure_&_Organisation	CFC0	1.3.3	10	AGL CEO	4	C
+6	5.0_Structure_&_Organisation	CFC0	1.3.3	10	Executive Board	5	C
+6	5.0_Structure_&_Organisation	CFC0	1.3.3	10	Exec Board member	6	C
+6	5.0_Structure_&_Organisation	CFC0	1.3.3	10	Market MD	7	C
+6	5.0_Structure_&_Organisation	CFC0	1.3.4	11	Trustees	1	A
+6	5.0_Structure_&_Organisation	CFC0	1.3.4	11	AGL Board	2	A
+6	5.0_Structure_&_Organisation	CFC0	1.3.4	11	Arup Group Chair	3	A
+6	5.0_Structure_&_Organisation	CFC0	1.3.4	11	AGL CEO	4	A
+6	5.0_Structure_&_Organisation	CFC0	1.3.4	11	Executive Board	5	A
+6	5.0_Structure_&_Organisation	CFC0	1.3.4	11	Exec Board member	6	A
+6	5.0_Structure_&_Organisation	CFC0	1.3.4	11	Market MD	7	A
+7	6.0_Leadership	0DC0	1.1.1	1	Trustees	1	I
+7	6.0_Leadership	0DC0	1.1.1	1	AGL Board	2	I
+7	6.0_Leadership	0DC0	1.1.1	1	Arup Group Chair	3	I
+7	6.0_Leadership	0DC0	1.1.1	1	AGL CEO	4	I
+7	6.0_Leadership	0DC0	1.1.1	1	Executive Board	5	I
+7	6.0_Leadership	0DC0	1.1.1	1	Exec Board member	6	I
+7	6.0_Leadership	0DC0	1.1.1	1	Market MD	7	I
+7	6.0_Leadership	0DC0	1.1.2	2	Trustees	1	C
+7	6.0_Leadership	0DC0	1.1.2	2	AGL Board	2	C
+7	6.0_Leadership	0DC0	1.1.2	2	Arup Group Chair	3	C
+7	6.0_Leadership	0DC0	1.1.2	2	AGL CEO	4	C
+7	6.0_Leadership	0DC0	1.1.2	2	Executive Board	5	C
+7	6.0_Leadership	0DC0	1.1.2	2	Exec Board member	6	C
+7	6.0_Leadership	0DC0	1.1.2	2	Market MD	7	C
+7	6.0_Leadership	0DC0	1.1.3	3	Trustees	1	C
+7	6.0_Leadership	0DC0	1.1.3	3	AGL Board	2	C
+7	6.0_Leadership	0DC0	1.1.3	3	Arup Group Chair	3	C
+7	6.0_Leadership	0DC0	1.1.3	3	AGL CEO	4	C
+7	6.0_Leadership	0DC0	1.1.3	3	Executive Board	5	C
+7	6.0_Leadership	0DC0	1.1.3	3	Exec Board member	6	C
+7	6.0_Leadership	0DC0	1.1.3	3	Market MD	7	C
+7	6.0_Leadership	0DC0	1.2.1	4	Trustees	1	I
+7	6.0_Leadership	0DC0	1.2.1	4	AGL Board	2	I
+7	6.0_Leadership	0DC0	1.2.1	4	Arup Group Chair	3	I
+7	6.0_Leadership	0DC0	1.2.1	4	AGL CEO	4	I
+7	6.0_Leadership	0DC0	1.2.1	4	Executive Board	5	I
+7	6.0_Leadership	0DC0	1.2.1	4	Exec Board member	6	I
+7	6.0_Leadership	0DC0	1.2.1	4	Market MD	7	I
+7	6.0_Leadership	0DC0	1.2.2	5	Trustees	1	I
+7	6.0_Leadership	0DC0	1.2.2	5	AGL Board	2	I
+7	6.0_Leadership	0DC0	1.2.2	5	Arup Group Chair	3	I
+7	6.0_Leadership	0DC0	1.2.2	5	AGL CEO	4	C
+7	6.0_Leadership	0DC0	1.2.2	5	Executive Board	5	I
+7	6.0_Leadership	0DC0	1.2.2	5	Exec Board member	6	I
+7	6.0_Leadership	0DC0	1.2.2	5	Market MD	7	I
+7	6.0_Leadership	0DC0	1.2.3	6	Trustees	1	C
+7	6.0_Leadership	0DC0	1.2.3	6	AGL Board	2	C
+7	6.0_Leadership	0DC0	1.2.3	6	Arup Group Chair	3	C
+7	6.0_Leadership	0DC0	1.2.3	6	AGL CEO	4	C
+7	6.0_Leadership	0DC0	1.2.3	6	Executive Board	5	C
+7	6.0_Leadership	0DC0	1.2.3	6	Exec Board member	6	C
+7	6.0_Leadership	0DC0	1.2.3	6	Market MD	7	C
+7	6.0_Leadership	0DC0	1.2.4	7	Trustees	1	C
+7	6.0_Leadership	0DC0	1.2.4	7	AGL Board	2	C
+7	6.0_Leadership	0DC0	1.2.4	7	Arup Group Chair	3	C
+7	6.0_Leadership	0DC0	1.2.4	7	AGL CEO	4	C
+7	6.0_Leadership	0DC0	1.2.4	7	Executive Board	5	C
+7	6.0_Leadership	0DC0	1.2.4	7	Exec Board member	6	C
+7	6.0_Leadership	0DC0	1.2.4	7	Market MD	7	C
+7	6.0_Leadership	0DC0	1.3.1	8	Trustees	1	I
+7	6.0_Leadership	0DC0	1.3.1	8	AGL Board	2	I
+7	6.0_Leadership	0DC0	1.3.1	8	Arup Group Chair	3	I
+7	6.0_Leadership	0DC0	1.3.1	8	AGL CEO	4	I
+7	6.0_Leadership	0DC0	1.3.1	8	Executive Board	5	I
+7	6.0_Leadership	0DC0	1.3.1	8	Exec Board member	6	I
+7	6.0_Leadership	0DC0	1.3.1	8	Market MD	7	I
+7	6.0_Leadership	0DC0	1.3.2	9	Trustees	1	C
+7	6.0_Leadership	0DC0	1.3.2	9	AGL Board	2	C
+7	6.0_Leadership	0DC0	1.3.2	9	Arup Group Chair	3	C
+7	6.0_Leadership	0DC0	1.3.2	9	AGL CEO	4	C
+7	6.0_Leadership	0DC0	1.3.2	9	Executive Board	5	C
+7	6.0_Leadership	0DC0	1.3.2	9	Exec Board member	6	C
+7	6.0_Leadership	0DC0	1.3.2	9	Market MD	7	C
+7	6.0_Leadership	0DC0	1.3.3	10	Trustees	1	A
+7	6.0_Leadership	0DC0	1.3.3	10	AGL Board	2	C
+7	6.0_Leadership	0DC0	1.3.3	10	Arup Group Chair	3	A
+7	6.0_Leadership	0DC0	1.3.3	10	AGL CEO	4	A
+7	6.0_Leadership	0DC0	1.3.3	10	Executive Board	5	A
+7	6.0_Leadership	0DC0	1.3.3	10	Exec Board member	6	A
+7	6.0_Leadership	0DC0	1.3.3	10	Market MD	7	A
+7	6.0_Leadership	0DC0	1.3.4	11	Trustees	1	C
+7	6.0_Leadership	0DC0	1.3.4	11	AGL Board	2	C
+7	6.0_Leadership	0DC0	1.3.4	11	Arup Group Chair	3	C
+7	6.0_Leadership	0DC0	1.3.4	11	AGL CEO	4	C
+7	6.0_Leadership	0DC0	1.3.4	11	Executive Board	5	C
+7	6.0_Leadership	0DC0	1.3.4	11	Exec Board member	6	C
+7	6.0_Leadership	0DC0	1.3.4	11	Market MD	7	C
+7	6.0_Leadership	0E0C	1.1.1	1	Trustees	1	I
+7	6.0_Leadership	0E0C	1.1.1	1	AGL Board	2	I
+7	6.0_Leadership	0E0C	1.1.1	1	Arup Group Chair	3	I
+7	6.0_Leadership	0E0C	1.1.1	1	AGL CEO	4	I
+7	6.0_Leadership	0E0C	1.1.1	1	Executive Board	5	I
+7	6.0_Leadership	0E0C	1.1.1	1	Exec Board member	6	I
+7	6.0_Leadership	0E0C	1.1.1	1	Market MD	7	I
+7	6.0_Leadership	0E0C	1.1.2	2	Trustees	1	I
+7	6.0_Leadership	0E0C	1.1.2	2	AGL Board	2	I
+7	6.0_Leadership	0E0C	1.1.2	2	Arup Group Chair	3	I
+7	6.0_Leadership	0E0C	1.1.2	2	AGL CEO	4	I
+7	6.0_Leadership	0E0C	1.1.2	2	Executive Board	5	I
+7	6.0_Leadership	0E0C	1.1.2	2	Exec Board member	6	I
+7	6.0_Leadership	0E0C	1.1.2	2	Market MD	7	I
+7	6.0_Leadership	0E0C	1.1.3	3	Trustees	1	C
+7	6.0_Leadership	0E0C	1.1.3	3	AGL Board	2	C
+7	6.0_Leadership	0E0C	1.1.3	3	Arup Group Chair	3	C
+7	6.0_Leadership	0E0C	1.1.3	3	AGL CEO	4	C
+7	6.0_Leadership	0E0C	1.1.3	3	Executive Board	5	C
+7	6.0_Leadership	0E0C	1.1.3	3	Exec Board member	6	I
+7	6.0_Leadership	0E0C	1.1.3	3	Market MD	7	C
+7	6.0_Leadership	0E0C	1.2.1	4	Trustees	1	A
+7	6.0_Leadership	0E0C	1.2.1	4	AGL Board	2	A
+7	6.0_Leadership	0E0C	1.2.1	4	Arup Group Chair	3	A
+7	6.0_Leadership	0E0C	1.2.1	4	AGL CEO	4	A
+7	6.0_Leadership	0E0C	1.2.1	4	Executive Board	5	A
+7	6.0_Leadership	0E0C	1.2.1	4	Exec Board member	6	A
+7	6.0_Leadership	0E0C	1.2.1	4	Market MD	7	A
+7	6.0_Leadership	0E0C	1.2.2	5	Trustees	1	I
+7	6.0_Leadership	0E0C	1.2.2	5	AGL Board	2	I
+7	6.0_Leadership	0E0C	1.2.2	5	Arup Group Chair	3	I
+7	6.0_Leadership	0E0C	1.2.2	5	AGL CEO	4	I
+7	6.0_Leadership	0E0C	1.2.2	5	Executive Board	5	I
+7	6.0_Leadership	0E0C	1.2.2	5	Exec Board member	6	I
+7	6.0_Leadership	0E0C	1.2.2	5	Market MD	7	I
+7	6.0_Leadership	0E0C	1.2.3	6	Trustees	1	C
+7	6.0_Leadership	0E0C	1.2.3	6	AGL Board	2	C
+7	6.0_Leadership	0E0C	1.2.3	6	Arup Group Chair	3	C
+7	6.0_Leadership	0E0C	1.2.3	6	AGL CEO	4	C
+7	6.0_Leadership	0E0C	1.2.3	6	Executive Board	5	C
+7	6.0_Leadership	0E0C	1.2.3	6	Exec Board member	6	C
+7	6.0_Leadership	0E0C	1.2.3	6	Market MD	7	C
+7	6.0_Leadership	0E0C	1.2.4	7	Trustees	1	C
+7	6.0_Leadership	0E0C	1.2.4	7	AGL Board	2	I
+7	6.0_Leadership	0E0C	1.2.4	7	Arup Group Chair	3	C
+7	6.0_Leadership	0E0C	1.2.4	7	AGL CEO	4	C
+7	6.0_Leadership	0E0C	1.2.4	7	Executive Board	5	C
+7	6.0_Leadership	0E0C	1.2.4	7	Exec Board member	6	C
+7	6.0_Leadership	0E0C	1.2.4	7	Market MD	7	C
+7	6.0_Leadership	0E0C	1.3.1	8	Trustees	1	C
+7	6.0_Leadership	0E0C	1.3.1	8	AGL Board	2	C
+7	6.0_Leadership	0E0C	1.3.1	8	Arup Group Chair	3	C
+7	6.0_Leadership	0E0C	1.3.1	8	AGL CEO	4	C
+7	6.0_Leadership	0E0C	1.3.1	8	Executive Board	5	C
+7	6.0_Leadership	0E0C	1.3.1	8	Exec Board member	6	C
+7	6.0_Leadership	0E0C	1.3.1	8	Market MD	7	C
+7	6.0_Leadership	0E0C	1.3.2	9	Trustees	1	I
+7	6.0_Leadership	0E0C	1.3.2	9	AGL Board	2	I
+7	6.0_Leadership	0E0C	1.3.2	9	Arup Group Chair	3	I
+7	6.0_Leadership	0E0C	1.3.2	9	AGL CEO	4	C
+7	6.0_Leadership	0E0C	1.3.2	9	Executive Board	5	I
+7	6.0_Leadership	0E0C	1.3.2	9	Exec Board member	6	I
+7	6.0_Leadership	0E0C	1.3.2	9	Market MD	7	I
+7	6.0_Leadership	0E0C	1.3.3	10	Trustees	1	R
+7	6.0_Leadership	0E0C	1.3.3	10	AGL Board	2	R
+7	6.0_Leadership	0E0C	1.3.3	10	Arup Group Chair	3	A
+7	6.0_Leadership	0E0C	1.3.3	10	AGL CEO	4	R
+7	6.0_Leadership	0E0C	1.3.3	10	Executive Board	5	R
+7	6.0_Leadership	0E0C	1.3.3	10	Exec Board member	6	R
+7	6.0_Leadership	0E0C	1.3.3	10	Market MD	7	R
+7	6.0_Leadership	0E0C	1.3.4	11	Trustees	1	I
+7	6.0_Leadership	0E0C	1.3.4	11	AGL Board	2	I
+7	6.0_Leadership	0E0C	1.3.4	11	Arup Group Chair	3	I
+7	6.0_Leadership	0E0C	1.3.4	11	AGL CEO	4	I
+7	6.0_Leadership	0E0C	1.3.4	11	Executive Board	5	I
+7	6.0_Leadership	0E0C	1.3.4	11	Exec Board member	6	I
+7	6.0_Leadership	0E0C	1.3.4	11	Market MD	7	I
+7	6.0_Leadership	AABD	1.1.1	1	Trustees	1	C
+7	6.0_Leadership	AABD	1.1.1	1	AGL Board	2	C
+7	6.0_Leadership	AABD	1.1.1	1	Arup Group Chair	3	C
+7	6.0_Leadership	AABD	1.1.1	1	AGL CEO	4	C
+7	6.0_Leadership	AABD	1.1.1	1	Executive Board	5	C
+7	6.0_Leadership	AABD	1.1.1	1	Exec Board member	6	C
+7	6.0_Leadership	AABD	1.1.1	1	Market MD	7	C
+7	6.0_Leadership	AABD	1.1.2	2	Trustees	1	I
+7	6.0_Leadership	AABD	1.1.2	2	AGL Board	2	I
+7	6.0_Leadership	AABD	1.1.2	2	Arup Group Chair	3	I
+7	6.0_Leadership	AABD	1.1.2	2	AGL CEO	4	I
+7	6.0_Leadership	AABD	1.1.2	2	Executive Board	5	I
+7	6.0_Leadership	AABD	1.1.2	2	Exec Board member	6	I
+7	6.0_Leadership	AABD	1.1.2	2	Market MD	7	I
+7	6.0_Leadership	AABD	1.1.3	3	Trustees	1	I
+7	6.0_Leadership	AABD	1.1.3	3	AGL Board	2	I
+7	6.0_Leadership	AABD	1.1.3	3	Arup Group Chair	3	I
+7	6.0_Leadership	AABD	1.1.3	3	AGL CEO	4	I
+7	6.0_Leadership	AABD	1.1.3	3	Executive Board	5	I
+7	6.0_Leadership	AABD	1.1.3	3	Exec Board member	6	I
+7	6.0_Leadership	AABD	1.1.3	3	Market MD	7	I
+7	6.0_Leadership	AABD	1.2.1	4	Trustees	1	A
+7	6.0_Leadership	AABD	1.2.1	4	AGL Board	2	A
+7	6.0_Leadership	AABD	1.2.1	4	Arup Group Chair	3	I
+7	6.0_Leadership	AABD	1.2.1	4	AGL CEO	4	A
+7	6.0_Leadership	AABD	1.2.1	4	Executive Board	5	A
+7	6.0_Leadership	AABD	1.2.1	4	Exec Board member	6	A
+7	6.0_Leadership	AABD	1.2.1	4	Market MD	7	A
+7	6.0_Leadership	AABD	1.2.2	5	Trustees	1	I
+7	6.0_Leadership	AABD	1.2.2	5	AGL Board	2	I
+7	6.0_Leadership	AABD	1.2.2	5	Arup Group Chair	3	I
+7	6.0_Leadership	AABD	1.2.2	5	AGL CEO	4	I
+7	6.0_Leadership	AABD	1.2.2	5	Executive Board	5	I
+7	6.0_Leadership	AABD	1.2.2	5	Exec Board member	6	I
+7	6.0_Leadership	AABD	1.2.2	5	Market MD	7	I
+7	6.0_Leadership	AABD	1.2.3	6	Trustees	1	C
+7	6.0_Leadership	AABD	1.2.3	6	AGL Board	2	C
+7	6.0_Leadership	AABD	1.2.3	6	Arup Group Chair	3	C
+7	6.0_Leadership	AABD	1.2.3	6	AGL CEO	4	C
+7	6.0_Leadership	AABD	1.2.3	6	Executive Board	5	C
+7	6.0_Leadership	AABD	1.2.3	6	Exec Board member	6	C
+7	6.0_Leadership	AABD	1.2.3	6	Market MD	7	C
+7	6.0_Leadership	AABD	1.2.4	7	Trustees	1	I
+7	6.0_Leadership	AABD	1.2.4	7	AGL Board	2	I
+7	6.0_Leadership	AABD	1.2.4	7	Arup Group Chair	3	I
+7	6.0_Leadership	AABD	1.2.4	7	AGL CEO	4	I
+7	6.0_Leadership	AABD	1.2.4	7	Executive Board	5	I
+7	6.0_Leadership	AABD	1.2.4	7	Exec Board member	6	I
+7	6.0_Leadership	AABD	1.2.4	7	Market MD	7	I
+7	6.0_Leadership	AABD	1.3.1	8	Trustees	1	I
+7	6.0_Leadership	AABD	1.3.1	8	AGL Board	2	I
+7	6.0_Leadership	AABD	1.3.1	8	Arup Group Chair	3	I
+7	6.0_Leadership	AABD	1.3.1	8	AGL CEO	4	I
+7	6.0_Leadership	AABD	1.3.1	8	Executive Board	5	I
+7	6.0_Leadership	AABD	1.3.1	8	Exec Board member	6	I
+7	6.0_Leadership	AABD	1.3.1	8	Market MD	7	I
+7	6.0_Leadership	AABD	1.3.2	9	Trustees	1	C
+7	6.0_Leadership	AABD	1.3.2	9	AGL Board	2	C
+7	6.0_Leadership	AABD	1.3.2	9	Arup Group Chair	3	C
+7	6.0_Leadership	AABD	1.3.2	9	AGL CEO	4	C
+7	6.0_Leadership	AABD	1.3.2	9	Executive Board	5	C
+7	6.0_Leadership	AABD	1.3.2	9	Exec Board member	6	C
+7	6.0_Leadership	AABD	1.3.2	9	Market MD	7	C
+7	6.0_Leadership	AABD	1.3.3	10	Trustees	1	C
+7	6.0_Leadership	AABD	1.3.3	10	AGL Board	2	C
+7	6.0_Leadership	AABD	1.3.3	10	Arup Group Chair	3	C
+7	6.0_Leadership	AABD	1.3.3	10	AGL CEO	4	C
+7	6.0_Leadership	AABD	1.3.3	10	Executive Board	5	C
+7	6.0_Leadership	AABD	1.3.3	10	Exec Board member	6	C
+7	6.0_Leadership	AABD	1.3.3	10	Market MD	7	C
+7	6.0_Leadership	AABD	1.3.4	11	Trustees	1	C
+7	6.0_Leadership	AABD	1.3.4	11	AGL Board	2	C
+7	6.0_Leadership	AABD	1.3.4	11	Arup Group Chair	3	A
+7	6.0_Leadership	AABD	1.3.4	11	AGL CEO	4	C
+7	6.0_Leadership	AABD	1.3.4	11	Executive Board	5	C
+7	6.0_Leadership	AABD	1.3.4	11	Exec Board member	6	C
+7	6.0_Leadership	AABD	1.3.4	11	Market MD	7	C
+7	6.0_Leadership	FEBE	1.1.1	1	Trustees	1	C
+7	6.0_Leadership	FEBE	1.1.1	1	AGL Board	2	C
+7	6.0_Leadership	FEBE	1.1.1	1	Arup Group Chair	3	C
+7	6.0_Leadership	FEBE	1.1.1	1	AGL CEO	4	C
+7	6.0_Leadership	FEBE	1.1.1	1	Executive Board	5	C
+7	6.0_Leadership	FEBE	1.1.1	1	Exec Board member	6	C
+7	6.0_Leadership	FEBE	1.1.1	1	Market MD	7	C
+7	6.0_Leadership	FEBE	1.1.2	2	Trustees	1	I
+7	6.0_Leadership	FEBE	1.1.2	2	AGL Board	2	I
+7	6.0_Leadership	FEBE	1.1.2	2	Arup Group Chair	3	I
+7	6.0_Leadership	FEBE	1.1.2	2	AGL CEO	4	I
+7	6.0_Leadership	FEBE	1.1.2	2	Executive Board	5	I
+7	6.0_Leadership	FEBE	1.1.2	2	Exec Board member	6	I
+7	6.0_Leadership	FEBE	1.1.2	2	Market MD	7	I
+7	6.0_Leadership	FEBE	1.1.3	3	Trustees	1	C
+7	6.0_Leadership	FEBE	1.1.3	3	AGL Board	2	C
+7	6.0_Leadership	FEBE	1.1.3	3	Arup Group Chair	3	C
+7	6.0_Leadership	FEBE	1.1.3	3	AGL CEO	4	C
+7	6.0_Leadership	FEBE	1.1.3	3	Executive Board	5	C
+7	6.0_Leadership	FEBE	1.1.3	3	Exec Board member	6	C
+7	6.0_Leadership	FEBE	1.1.3	3	Market MD	7	C
+7	6.0_Leadership	FEBE	1.2.1	4	Trustees	1	I
+7	6.0_Leadership	FEBE	1.2.1	4	AGL Board	2	I
+7	6.0_Leadership	FEBE	1.2.1	4	Arup Group Chair	3	I
+7	6.0_Leadership	FEBE	1.2.1	4	AGL CEO	4	I
+7	6.0_Leadership	FEBE	1.2.1	4	Executive Board	5	I
+7	6.0_Leadership	FEBE	1.2.1	4	Exec Board member	6	I
+7	6.0_Leadership	FEBE	1.2.1	4	Market MD	7	I
+7	6.0_Leadership	FEBE	1.2.2	5	Trustees	1	C
+7	6.0_Leadership	FEBE	1.2.2	5	AGL Board	2	C
+7	6.0_Leadership	FEBE	1.2.2	5	Arup Group Chair	3	C
+7	6.0_Leadership	FEBE	1.2.2	5	AGL CEO	4	C
+7	6.0_Leadership	FEBE	1.2.2	5	Executive Board	5	C
+7	6.0_Leadership	FEBE	1.2.2	5	Exec Board member	6	C
+7	6.0_Leadership	FEBE	1.2.2	5	Market MD	7	C
+7	6.0_Leadership	FEBE	1.2.3	6	Trustees	1	I
+7	6.0_Leadership	FEBE	1.2.3	6	AGL Board	2	I
+7	6.0_Leadership	FEBE	1.2.3	6	Arup Group Chair	3	I
+7	6.0_Leadership	FEBE	1.2.3	6	AGL CEO	4	I
+7	6.0_Leadership	FEBE	1.2.3	6	Executive Board	5	I
+7	6.0_Leadership	FEBE	1.2.3	6	Exec Board member	6	I
+7	6.0_Leadership	FEBE	1.2.3	6	Market MD	7	I
+7	6.0_Leadership	FEBE	1.2.4	7	Trustees	1	I
+7	6.0_Leadership	FEBE	1.2.4	7	AGL Board	2	I
+7	6.0_Leadership	FEBE	1.2.4	7	Arup Group Chair	3	I
+7	6.0_Leadership	FEBE	1.2.4	7	AGL CEO	4	I
+7	6.0_Leadership	FEBE	1.2.4	7	Executive Board	5	I
+7	6.0_Leadership	FEBE	1.2.4	7	Exec Board member	6	I
+7	6.0_Leadership	FEBE	1.2.4	7	Market MD	7	I
+7	6.0_Leadership	FEBE	1.3.1	8	Trustees	1	I
+7	6.0_Leadership	FEBE	1.3.1	8	AGL Board	2	I
+7	6.0_Leadership	FEBE	1.3.1	8	Arup Group Chair	3	I
+7	6.0_Leadership	FEBE	1.3.1	8	AGL CEO	4	I
+7	6.0_Leadership	FEBE	1.3.1	8	Executive Board	5	I
+7	6.0_Leadership	FEBE	1.3.1	8	Exec Board member	6	I
+7	6.0_Leadership	FEBE	1.3.1	8	Market MD	7	I
+7	6.0_Leadership	FEBE	1.3.2	9	Trustees	1	I
+7	6.0_Leadership	FEBE	1.3.2	9	AGL Board	2	I
+7	6.0_Leadership	FEBE	1.3.2	9	Arup Group Chair	3	I
+7	6.0_Leadership	FEBE	1.3.2	9	AGL CEO	4	I
+7	6.0_Leadership	FEBE	1.3.2	9	Executive Board	5	I
+7	6.0_Leadership	FEBE	1.3.2	9	Exec Board member	6	I
+7	6.0_Leadership	FEBE	1.3.2	9	Market MD	7	I
+7	6.0_Leadership	FEBE	1.3.3	10	Trustees	1	I
+7	6.0_Leadership	FEBE	1.3.3	10	AGL Board	2	I
+7	6.0_Leadership	FEBE	1.3.3	10	Arup Group Chair	3	I
+7	6.0_Leadership	FEBE	1.3.3	10	AGL CEO	4	I
+7	6.0_Leadership	FEBE	1.3.3	10	Executive Board	5	I
+7	6.0_Leadership	FEBE	1.3.3	10	Exec Board member	6	I
+7	6.0_Leadership	FEBE	1.3.3	10	Market MD	7	I
+7	6.0_Leadership	FEBE	1.3.4	11	Trustees	1	I
+7	6.0_Leadership	FEBE	1.3.4	11	AGL Board	2	I
+7	6.0_Leadership	FEBE	1.3.4	11	Arup Group Chair	3	I
+7	6.0_Leadership	FEBE	1.3.4	11	AGL CEO	4	I
+7	6.0_Leadership	FEBE	1.3.4	11	Executive Board	5	I
+7	6.0_Leadership	FEBE	1.3.4	11	Exec Board member	6	I
+7	6.0_Leadership	FEBE	1.3.4	11	Market MD	7	I
+8	7.0_Engagement	0E00	1.1.1	1	Trustees	1	R
+8	7.0_Engagement	0E00	1.1.1	1	AGL Board	2	R
+8	7.0_Engagement	0E00	1.1.1	1	Arup Group Chair	3	R
+8	7.0_Engagement	0E00	1.1.1	1	AGL CEO	4	R
+8	7.0_Engagement	0E00	1.1.1	1	Executive Board	5	R
+8	7.0_Engagement	0E00	1.1.1	1	Exec Board member	6	R
+8	7.0_Engagement	0E00	1.1.1	1	Market MD	7	R
+8	7.0_Engagement	0E00	1.1.2	2	Trustees	1	C
+8	7.0_Engagement	0E00	1.1.2	2	AGL Board	2	C
+8	7.0_Engagement	0E00	1.1.2	2	Arup Group Chair	3	I
+8	7.0_Engagement	0E00	1.1.2	2	AGL CEO	4	C
+8	7.0_Engagement	0E00	1.1.2	2	Executive Board	5	C
+8	7.0_Engagement	0E00	1.1.2	2	Exec Board member	6	I
+8	7.0_Engagement	0E00	1.1.2	2	Market MD	7	C
+8	7.0_Engagement	0E00	1.1.3	3	Trustees	1	I
+8	7.0_Engagement	0E00	1.1.3	3	AGL Board	2	I
+8	7.0_Engagement	0E00	1.1.3	3	Arup Group Chair	3	I
+8	7.0_Engagement	0E00	1.1.3	3	AGL CEO	4	I
+8	7.0_Engagement	0E00	1.1.3	3	Executive Board	5	I
+8	7.0_Engagement	0E00	1.1.3	3	Exec Board member	6	I
+8	7.0_Engagement	0E00	1.1.3	3	Market MD	7	I
+8	7.0_Engagement	0E00	1.2.1	4	Trustees	1	C
+8	7.0_Engagement	0E00	1.2.1	4	AGL Board	2	C
+8	7.0_Engagement	0E00	1.2.1	4	Arup Group Chair	3	C
+8	7.0_Engagement	0E00	1.2.1	4	AGL CEO	4	C
+8	7.0_Engagement	0E00	1.2.1	4	Executive Board	5	C
+8	7.0_Engagement	0E00	1.2.1	4	Exec Board member	6	C
+8	7.0_Engagement	0E00	1.2.1	4	Market MD	7	C
+8	7.0_Engagement	0E00	1.2.2	5	Trustees	1	C
+8	7.0_Engagement	0E00	1.2.2	5	AGL Board	2	C
+8	7.0_Engagement	0E00	1.2.2	5	Arup Group Chair	3	C
+8	7.0_Engagement	0E00	1.2.2	5	AGL CEO	4	C
+8	7.0_Engagement	0E00	1.2.2	5	Executive Board	5	C
+8	7.0_Engagement	0E00	1.2.2	5	Exec Board member	6	C
+8	7.0_Engagement	0E00	1.2.2	5	Market MD	7	C
+8	7.0_Engagement	0E00	1.2.3	6	Trustees	1	I
+8	7.0_Engagement	0E00	1.2.3	6	AGL Board	2	I
+8	7.0_Engagement	0E00	1.2.3	6	Arup Group Chair	3	I
+8	7.0_Engagement	0E00	1.2.3	6	AGL CEO	4	I
+8	7.0_Engagement	0E00	1.2.3	6	Executive Board	5	I
+8	7.0_Engagement	0E00	1.2.3	6	Exec Board member	6	I
+8	7.0_Engagement	0E00	1.2.3	6	Market MD	7	I
+8	7.0_Engagement	0E00	1.2.4	7	Trustees	1	C
+8	7.0_Engagement	0E00	1.2.4	7	AGL Board	2	C
+8	7.0_Engagement	0E00	1.2.4	7	Arup Group Chair	3	C
+8	7.0_Engagement	0E00	1.2.4	7	AGL CEO	4	C
+8	7.0_Engagement	0E00	1.2.4	7	Executive Board	5	C
+8	7.0_Engagement	0E00	1.2.4	7	Exec Board member	6	C
+8	7.0_Engagement	0E00	1.2.4	7	Market MD	7	C
+8	7.0_Engagement	0E00	1.3.1	8	Trustees	1	I
+8	7.0_Engagement	0E00	1.3.1	8	AGL Board	2	I
+8	7.0_Engagement	0E00	1.3.1	8	Arup Group Chair	3	I
+8	7.0_Engagement	0E00	1.3.1	8	AGL CEO	4	I
+8	7.0_Engagement	0E00	1.3.1	8	Executive Board	5	I
+8	7.0_Engagement	0E00	1.3.1	8	Exec Board member	6	I
+8	7.0_Engagement	0E00	1.3.1	8	Market MD	7	A
+8	7.0_Engagement	0E00	1.3.2	9	Trustees	1	C
+8	7.0_Engagement	0E00	1.3.2	9	AGL Board	2	C
+8	7.0_Engagement	0E00	1.3.2	9	Arup Group Chair	3	C
+8	7.0_Engagement	0E00	1.3.2	9	AGL CEO	4	C
+8	7.0_Engagement	0E00	1.3.2	9	Executive Board	5	C
+8	7.0_Engagement	0E00	1.3.2	9	Exec Board member	6	C
+8	7.0_Engagement	0E00	1.3.2	9	Market MD	7	C
+8	7.0_Engagement	0E00	1.3.3	10	Trustees	1	I
+8	7.0_Engagement	0E00	1.3.3	10	AGL Board	2	I
+8	7.0_Engagement	0E00	1.3.3	10	Arup Group Chair	3	I
+8	7.0_Engagement	0E00	1.3.3	10	AGL CEO	4	I
+8	7.0_Engagement	0E00	1.3.3	10	Executive Board	5	I
+8	7.0_Engagement	0E00	1.3.3	10	Exec Board member	6	I
+8	7.0_Engagement	0E00	1.3.3	10	Market MD	7	I
+8	7.0_Engagement	0E00	1.3.4	11	Trustees	1	I
+8	7.0_Engagement	0E00	1.3.4	11	AGL Board	2	I
+8	7.0_Engagement	0E00	1.3.4	11	Arup Group Chair	3	I
+8	7.0_Engagement	0E00	1.3.4	11	AGL CEO	4	I
+8	7.0_Engagement	0E00	1.3.4	11	Executive Board	5	I
+8	7.0_Engagement	0E00	1.3.4	11	Exec Board member	6	I
+8	7.0_Engagement	0E00	1.3.4	11	Market MD	7	I
+8	7.0_Engagement	FA00	1.1.1	1	Trustees	1	A
+8	7.0_Engagement	FA00	1.1.1	1	AGL Board	2	A
+8	7.0_Engagement	FA00	1.1.1	1	Arup Group Chair	3	C
+8	7.0_Engagement	FA00	1.1.1	1	AGL CEO	4	A
+8	7.0_Engagement	FA00	1.1.1	1	Executive Board	5	A
+8	7.0_Engagement	FA00	1.1.1	1	Exec Board member	6	A
+8	7.0_Engagement	FA00	1.1.1	1	Market MD	7	A
+8	7.0_Engagement	FA00	1.1.2	2	Trustees	1	C
+8	7.0_Engagement	FA00	1.1.2	2	AGL Board	2	C
+8	7.0_Engagement	FA00	1.1.2	2	Arup Group Chair	3	C
+8	7.0_Engagement	FA00	1.1.2	2	AGL CEO	4	C
+8	7.0_Engagement	FA00	1.1.2	2	Executive Board	5	C
+8	7.0_Engagement	FA00	1.1.2	2	Exec Board member	6	C
+8	7.0_Engagement	FA00	1.1.2	2	Market MD	7	C
+8	7.0_Engagement	FA00	1.1.3	3	Trustees	1	I
+8	7.0_Engagement	FA00	1.1.3	3	AGL Board	2	I
+8	7.0_Engagement	FA00	1.1.3	3	Arup Group Chair	3	I
+8	7.0_Engagement	FA00	1.1.3	3	AGL CEO	4	I
+8	7.0_Engagement	FA00	1.1.3	3	Executive Board	5	I
+8	7.0_Engagement	FA00	1.1.3	3	Exec Board member	6	I
+8	7.0_Engagement	FA00	1.1.3	3	Market MD	7	I
+8	7.0_Engagement	FA00	1.2.1	4	Trustees	1	I
+8	7.0_Engagement	FA00	1.2.1	4	AGL Board	2	I
+8	7.0_Engagement	FA00	1.2.1	4	Arup Group Chair	3	I
+8	7.0_Engagement	FA00	1.2.1	4	AGL CEO	4	I
+8	7.0_Engagement	FA00	1.2.1	4	Executive Board	5	I
+8	7.0_Engagement	FA00	1.2.1	4	Exec Board member	6	I
+8	7.0_Engagement	FA00	1.2.1	4	Market MD	7	I
+8	7.0_Engagement	FA00	1.2.2	5	Trustees	1	I
+8	7.0_Engagement	FA00	1.2.2	5	AGL Board	2	I
+8	7.0_Engagement	FA00	1.2.2	5	Arup Group Chair	3	I
+8	7.0_Engagement	FA00	1.2.2	5	AGL CEO	4	I
+8	7.0_Engagement	FA00	1.2.2	5	Executive Board	5	I
+8	7.0_Engagement	FA00	1.2.2	5	Exec Board member	6	I
+8	7.0_Engagement	FA00	1.2.2	5	Market MD	7	I
+8	7.0_Engagement	FA00	1.2.3	6	Trustees	1	C
+8	7.0_Engagement	FA00	1.2.3	6	AGL Board	2	C
+8	7.0_Engagement	FA00	1.2.3	6	Arup Group Chair	3	C
+8	7.0_Engagement	FA00	1.2.3	6	AGL CEO	4	C
+8	7.0_Engagement	FA00	1.2.3	6	Executive Board	5	I
+8	7.0_Engagement	FA00	1.2.3	6	Exec Board member	6	C
+8	7.0_Engagement	FA00	1.2.3	6	Market MD	7	C
+8	7.0_Engagement	FA00	1.2.4	7	Trustees	1	A
+8	7.0_Engagement	FA00	1.2.4	7	AGL Board	2	A
+8	7.0_Engagement	FA00	1.2.4	7	Arup Group Chair	3	A
+8	7.0_Engagement	FA00	1.2.4	7	AGL CEO	4	A
+8	7.0_Engagement	FA00	1.2.4	7	Executive Board	5	A
+8	7.0_Engagement	FA00	1.2.4	7	Exec Board member	6	A
+8	7.0_Engagement	FA00	1.2.4	7	Market MD	7	A
+8	7.0_Engagement	FA00	1.3.1	8	Trustees	1	I
+8	7.0_Engagement	FA00	1.3.1	8	AGL Board	2	I
+8	7.0_Engagement	FA00	1.3.1	8	Arup Group Chair	3	I
+8	7.0_Engagement	FA00	1.3.1	8	AGL CEO	4	I
+8	7.0_Engagement	FA00	1.3.1	8	Executive Board	5	I
+8	7.0_Engagement	FA00	1.3.1	8	Exec Board member	6	I
+8	7.0_Engagement	FA00	1.3.1	8	Market MD	7	I
+8	7.0_Engagement	FA00	1.3.2	9	Trustees	1	I
+8	7.0_Engagement	FA00	1.3.2	9	AGL Board	2	I
+8	7.0_Engagement	FA00	1.3.2	9	Arup Group Chair	3	I
+8	7.0_Engagement	FA00	1.3.2	9	AGL CEO	4	I
+8	7.0_Engagement	FA00	1.3.2	9	Executive Board	5	I
+8	7.0_Engagement	FA00	1.3.2	9	Exec Board member	6	I
+8	7.0_Engagement	FA00	1.3.2	9	Market MD	7	I
+8	7.0_Engagement	FA00	1.3.3	10	Trustees	1	I
+8	7.0_Engagement	FA00	1.3.3	10	AGL Board	2	I
+8	7.0_Engagement	FA00	1.3.3	10	Arup Group Chair	3	I
+8	7.0_Engagement	FA00	1.3.3	10	AGL CEO	4	I
+8	7.0_Engagement	FA00	1.3.3	10	Executive Board	5	I
+8	7.0_Engagement	FA00	1.3.3	10	Exec Board member	6	I
+8	7.0_Engagement	FA00	1.3.3	10	Market MD	7	I
+8	7.0_Engagement	FA00	1.3.4	11	Trustees	1	A
+8	7.0_Engagement	FA00	1.3.4	11	AGL Board	2	A
+8	7.0_Engagement	FA00	1.3.4	11	Arup Group Chair	3	A
+8	7.0_Engagement	FA00	1.3.4	11	AGL CEO	4	I
+8	7.0_Engagement	FA00	1.3.4	11	Executive Board	5	I
+8	7.0_Engagement	FA00	1.3.4	11	Exec Board member	6	A
+8	7.0_Engagement	FA00	1.3.4	11	Market MD	7	A
+9	8.0_Coporate_Matters	DADA	1.1.1	1	Trustees	1	I
+9	8.0_Coporate_Matters	DADA	1.1.1	1	AGL Board	2	I
+9	8.0_Coporate_Matters	DADA	1.1.1	1	Arup Group Chair	3	I
+9	8.0_Coporate_Matters	DADA	1.1.1	1	AGL CEO	4	I
+9	8.0_Coporate_Matters	DADA	1.1.1	1	Executive Board	5	I
+9	8.0_Coporate_Matters	DADA	1.1.1	1	Exec Board member	6	I
+9	8.0_Coporate_Matters	DADA	1.1.1	1	Market MD	7	I
+9	8.0_Coporate_Matters	DADA	1.1.2	2	Trustees	1	C
+9	8.0_Coporate_Matters	DADA	1.1.2	2	AGL Board	2	C
+9	8.0_Coporate_Matters	DADA	1.1.2	2	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	DADA	1.1.2	2	AGL CEO	4	C
+9	8.0_Coporate_Matters	DADA	1.1.2	2	Executive Board	5	C
+9	8.0_Coporate_Matters	DADA	1.1.2	2	Exec Board member	6	C
+9	8.0_Coporate_Matters	DADA	1.1.2	2	Market MD	7	C
+9	8.0_Coporate_Matters	DADA	1.1.3	3	Trustees	1	I
+9	8.0_Coporate_Matters	DADA	1.1.3	3	AGL Board	2	I
+9	8.0_Coporate_Matters	DADA	1.1.3	3	Arup Group Chair	3	I
+9	8.0_Coporate_Matters	DADA	1.1.3	3	AGL CEO	4	I
+9	8.0_Coporate_Matters	DADA	1.1.3	3	Executive Board	5	I
+9	8.0_Coporate_Matters	DADA	1.1.3	3	Exec Board member	6	I
+9	8.0_Coporate_Matters	DADA	1.1.3	3	Market MD	7	I
+9	8.0_Coporate_Matters	DADA	1.2.1	4	Trustees	1	I
+9	8.0_Coporate_Matters	DADA	1.2.1	4	AGL Board	2	I
+9	8.0_Coporate_Matters	DADA	1.2.1	4	Arup Group Chair	3	I
+9	8.0_Coporate_Matters	DADA	1.2.1	4	AGL CEO	4	I
+9	8.0_Coporate_Matters	DADA	1.2.1	4	Executive Board	5	I
+9	8.0_Coporate_Matters	DADA	1.2.1	4	Exec Board member	6	I
+9	8.0_Coporate_Matters	DADA	1.2.1	4	Market MD	7	I
+9	8.0_Coporate_Matters	DADA	1.2.2	5	Trustees	1	C
+9	8.0_Coporate_Matters	DADA	1.2.2	5	AGL Board	2	C
+9	8.0_Coporate_Matters	DADA	1.2.2	5	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	DADA	1.2.2	5	AGL CEO	4	C
+9	8.0_Coporate_Matters	DADA	1.2.2	5	Executive Board	5	C
+9	8.0_Coporate_Matters	DADA	1.2.2	5	Exec Board member	6	C
+9	8.0_Coporate_Matters	DADA	1.2.2	5	Market MD	7	C
+9	8.0_Coporate_Matters	DADA	1.2.3	6	Trustees	1	I
+9	8.0_Coporate_Matters	DADA	1.2.3	6	AGL Board	2	I
+9	8.0_Coporate_Matters	DADA	1.2.3	6	Arup Group Chair	3	I
+9	8.0_Coporate_Matters	DADA	1.2.3	6	AGL CEO	4	I
+9	8.0_Coporate_Matters	DADA	1.2.3	6	Executive Board	5	I
+9	8.0_Coporate_Matters	DADA	1.2.3	6	Exec Board member	6	I
+9	8.0_Coporate_Matters	DADA	1.2.3	6	Market MD	7	I
+9	8.0_Coporate_Matters	DADA	1.2.4	7	Trustees	1	C
+9	8.0_Coporate_Matters	DADA	1.2.4	7	AGL Board	2	C
+9	8.0_Coporate_Matters	DADA	1.2.4	7	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	DADA	1.2.4	7	AGL CEO	4	C
+9	8.0_Coporate_Matters	DADA	1.2.4	7	Executive Board	5	C
+9	8.0_Coporate_Matters	DADA	1.2.4	7	Exec Board member	6	C
+9	8.0_Coporate_Matters	DADA	1.2.4	7	Market MD	7	C
+9	8.0_Coporate_Matters	DADA	1.3.1	8	Trustees	1	A
+9	8.0_Coporate_Matters	DADA	1.3.1	8	AGL Board	2	A
+9	8.0_Coporate_Matters	DADA	1.3.1	8	Arup Group Chair	3	A
+9	8.0_Coporate_Matters	DADA	1.3.1	8	AGL CEO	4	A
+9	8.0_Coporate_Matters	DADA	1.3.1	8	Executive Board	5	A
+9	8.0_Coporate_Matters	DADA	1.3.1	8	Exec Board member	6	A
+9	8.0_Coporate_Matters	DADA	1.3.1	8	Market MD	7	A
+9	8.0_Coporate_Matters	DADA	1.3.2	9	Trustees	1	C
+9	8.0_Coporate_Matters	DADA	1.3.2	9	AGL Board	2	C
+9	8.0_Coporate_Matters	DADA	1.3.2	9	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	DADA	1.3.2	9	AGL CEO	4	C
+9	8.0_Coporate_Matters	DADA	1.3.2	9	Executive Board	5	C
+9	8.0_Coporate_Matters	DADA	1.3.2	9	Exec Board member	6	C
+9	8.0_Coporate_Matters	DADA	1.3.2	9	Market MD	7	C
+9	8.0_Coporate_Matters	DADA	1.3.3	10	Trustees	1	C
+9	8.0_Coporate_Matters	DADA	1.3.3	10	AGL Board	2	C
+9	8.0_Coporate_Matters	DADA	1.3.3	10	Arup Group Chair	3	A
+9	8.0_Coporate_Matters	DADA	1.3.3	10	AGL CEO	4	C
+9	8.0_Coporate_Matters	DADA	1.3.3	10	Executive Board	5	C
+9	8.0_Coporate_Matters	DADA	1.3.3	10	Exec Board member	6	C
+9	8.0_Coporate_Matters	DADA	1.3.3	10	Market MD	7	C
+9	8.0_Coporate_Matters	DADA	1.3.4	11	Trustees	1	I
+9	8.0_Coporate_Matters	DADA	1.3.4	11	AGL Board	2	I
+9	8.0_Coporate_Matters	DADA	1.3.4	11	Arup Group Chair	3	I
+9	8.0_Coporate_Matters	DADA	1.3.4	11	AGL CEO	4	I
+9	8.0_Coporate_Matters	DADA	1.3.4	11	Executive Board	5	I
+9	8.0_Coporate_Matters	DADA	1.3.4	11	Exec Board member	6	I
+9	8.0_Coporate_Matters	DADA	1.3.4	11	Market MD	7	I
+9	8.0_Coporate_Matters	EBBE	1.1.1	1	Trustees	1	I
+9	8.0_Coporate_Matters	EBBE	1.1.1	1	AGL Board	2	I
+9	8.0_Coporate_Matters	EBBE	1.1.1	1	Arup Group Chair	3	I
+9	8.0_Coporate_Matters	EBBE	1.1.1	1	AGL CEO	4	I
+9	8.0_Coporate_Matters	EBBE	1.1.1	1	Executive Board	5	I
+9	8.0_Coporate_Matters	EBBE	1.1.1	1	Exec Board member	6	I
+9	8.0_Coporate_Matters	EBBE	1.1.1	1	Market MD	7	I
+9	8.0_Coporate_Matters	EBBE	1.1.2	2	Trustees	1	C
+9	8.0_Coporate_Matters	EBBE	1.1.2	2	AGL Board	2	C
+9	8.0_Coporate_Matters	EBBE	1.1.2	2	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	EBBE	1.1.2	2	AGL CEO	4	C
+9	8.0_Coporate_Matters	EBBE	1.1.2	2	Executive Board	5	C
+9	8.0_Coporate_Matters	EBBE	1.1.2	2	Exec Board member	6	C
+9	8.0_Coporate_Matters	EBBE	1.1.2	2	Market MD	7	C
+9	8.0_Coporate_Matters	EBBE	1.1.3	3	Trustees	1	I
+9	8.0_Coporate_Matters	EBBE	1.1.3	3	AGL Board	2	I
+9	8.0_Coporate_Matters	EBBE	1.1.3	3	Arup Group Chair	3	I
+9	8.0_Coporate_Matters	EBBE	1.1.3	3	AGL CEO	4	I
+9	8.0_Coporate_Matters	EBBE	1.1.3	3	Executive Board	5	I
+9	8.0_Coporate_Matters	EBBE	1.1.3	3	Exec Board member	6	I
+9	8.0_Coporate_Matters	EBBE	1.1.3	3	Market MD	7	I
+9	8.0_Coporate_Matters	EBBE	1.2.1	4	Trustees	1	C
+9	8.0_Coporate_Matters	EBBE	1.2.1	4	AGL Board	2	C
+9	8.0_Coporate_Matters	EBBE	1.2.1	4	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	EBBE	1.2.1	4	AGL CEO	4	I
+9	8.0_Coporate_Matters	EBBE	1.2.1	4	Executive Board	5	C
+9	8.0_Coporate_Matters	EBBE	1.2.1	4	Exec Board member	6	C
+9	8.0_Coporate_Matters	EBBE	1.2.1	4	Market MD	7	C
+9	8.0_Coporate_Matters	EBBE	1.2.2	5	Trustees	1	C
+9	8.0_Coporate_Matters	EBBE	1.2.2	5	AGL Board	2	C
+9	8.0_Coporate_Matters	EBBE	1.2.2	5	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	EBBE	1.2.2	5	AGL CEO	4	C
+9	8.0_Coporate_Matters	EBBE	1.2.2	5	Executive Board	5	C
+9	8.0_Coporate_Matters	EBBE	1.2.2	5	Exec Board member	6	C
+9	8.0_Coporate_Matters	EBBE	1.2.2	5	Market MD	7	C
+9	8.0_Coporate_Matters	EBBE	1.2.3	6	Trustees	1	I
+9	8.0_Coporate_Matters	EBBE	1.2.3	6	AGL Board	2	I
+9	8.0_Coporate_Matters	EBBE	1.2.3	6	Arup Group Chair	3	I
+9	8.0_Coporate_Matters	EBBE	1.2.3	6	AGL CEO	4	I
+9	8.0_Coporate_Matters	EBBE	1.2.3	6	Executive Board	5	I
+9	8.0_Coporate_Matters	EBBE	1.2.3	6	Exec Board member	6	I
+9	8.0_Coporate_Matters	EBBE	1.2.3	6	Market MD	7	I
+9	8.0_Coporate_Matters	EBBE	1.2.4	7	Trustees	1	C
+9	8.0_Coporate_Matters	EBBE	1.2.4	7	AGL Board	2	C
+9	8.0_Coporate_Matters	EBBE	1.2.4	7	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	EBBE	1.2.4	7	AGL CEO	4	C
+9	8.0_Coporate_Matters	EBBE	1.2.4	7	Executive Board	5	I
+9	8.0_Coporate_Matters	EBBE	1.2.4	7	Exec Board member	6	C
+9	8.0_Coporate_Matters	EBBE	1.2.4	7	Market MD	7	C
+9	8.0_Coporate_Matters	EBBE	1.3.1	8	Trustees	1	C
+9	8.0_Coporate_Matters	EBBE	1.3.1	8	AGL Board	2	C
+9	8.0_Coporate_Matters	EBBE	1.3.1	8	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	EBBE	1.3.1	8	AGL CEO	4	C
+9	8.0_Coporate_Matters	EBBE	1.3.1	8	Executive Board	5	C
+9	8.0_Coporate_Matters	EBBE	1.3.1	8	Exec Board member	6	C
+9	8.0_Coporate_Matters	EBBE	1.3.1	8	Market MD	7	C
+9	8.0_Coporate_Matters	EBBE	1.3.2	9	Trustees	1	C
+9	8.0_Coporate_Matters	EBBE	1.3.2	9	AGL Board	2	C
+9	8.0_Coporate_Matters	EBBE	1.3.2	9	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	EBBE	1.3.2	9	AGL CEO	4	C
+9	8.0_Coporate_Matters	EBBE	1.3.2	9	Executive Board	5	C
+9	8.0_Coporate_Matters	EBBE	1.3.2	9	Exec Board member	6	I
+9	8.0_Coporate_Matters	EBBE	1.3.2	9	Market MD	7	C
+9	8.0_Coporate_Matters	EBBE	1.3.3	10	Trustees	1	I
+9	8.0_Coporate_Matters	EBBE	1.3.3	10	AGL Board	2	I
+9	8.0_Coporate_Matters	EBBE	1.3.3	10	Arup Group Chair	3	I
+9	8.0_Coporate_Matters	EBBE	1.3.3	10	AGL CEO	4	I
+9	8.0_Coporate_Matters	EBBE	1.3.3	10	Executive Board	5	I
+9	8.0_Coporate_Matters	EBBE	1.3.3	10	Exec Board member	6	I
+9	8.0_Coporate_Matters	EBBE	1.3.3	10	Market MD	7	I
+9	8.0_Coporate_Matters	EBBE	1.3.4	11	Trustees	1	A
+9	8.0_Coporate_Matters	EBBE	1.3.4	11	AGL Board	2	A
+9	8.0_Coporate_Matters	EBBE	1.3.4	11	Arup Group Chair	3	A
+9	8.0_Coporate_Matters	EBBE	1.3.4	11	AGL CEO	4	A
+9	8.0_Coporate_Matters	EBBE	1.3.4	11	Executive Board	5	A
+9	8.0_Coporate_Matters	EBBE	1.3.4	11	Exec Board member	6	A
+9	8.0_Coporate_Matters	EBBE	1.3.4	11	Market MD	7	A
+9	8.0_Coporate_Matters	FBAC	1.1.1	1	Trustees	1	C
+9	8.0_Coporate_Matters	FBAC	1.1.1	1	AGL Board	2	C
+9	8.0_Coporate_Matters	FBAC	1.1.1	1	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	FBAC	1.1.1	1	AGL CEO	4	C
+9	8.0_Coporate_Matters	FBAC	1.1.1	1	Executive Board	5	C
+9	8.0_Coporate_Matters	FBAC	1.1.1	1	Exec Board member	6	C
+9	8.0_Coporate_Matters	FBAC	1.1.1	1	Market MD	7	C
+9	8.0_Coporate_Matters	FBAC	1.1.2	2	Trustees	1	C
+9	8.0_Coporate_Matters	FBAC	1.1.2	2	AGL Board	2	C
+9	8.0_Coporate_Matters	FBAC	1.1.2	2	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	FBAC	1.1.2	2	AGL CEO	4	C
+9	8.0_Coporate_Matters	FBAC	1.1.2	2	Executive Board	5	C
+9	8.0_Coporate_Matters	FBAC	1.1.2	2	Exec Board member	6	C
+9	8.0_Coporate_Matters	FBAC	1.1.2	2	Market MD	7	C
+9	8.0_Coporate_Matters	FBAC	1.1.3	3	Trustees	1	I
+9	8.0_Coporate_Matters	FBAC	1.1.3	3	AGL Board	2	I
+9	8.0_Coporate_Matters	FBAC	1.1.3	3	Arup Group Chair	3	I
+9	8.0_Coporate_Matters	FBAC	1.1.3	3	AGL CEO	4	I
+9	8.0_Coporate_Matters	FBAC	1.1.3	3	Executive Board	5	I
+9	8.0_Coporate_Matters	FBAC	1.1.3	3	Exec Board member	6	I
+9	8.0_Coporate_Matters	FBAC	1.1.3	3	Market MD	7	I
+9	8.0_Coporate_Matters	FBAC	1.2.1	4	Trustees	1	C
+9	8.0_Coporate_Matters	FBAC	1.2.1	4	AGL Board	2	C
+9	8.0_Coporate_Matters	FBAC	1.2.1	4	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	FBAC	1.2.1	4	AGL CEO	4	C
+9	8.0_Coporate_Matters	FBAC	1.2.1	4	Executive Board	5	C
+9	8.0_Coporate_Matters	FBAC	1.2.1	4	Exec Board member	6	C
+9	8.0_Coporate_Matters	FBAC	1.2.1	4	Market MD	7	C
+9	8.0_Coporate_Matters	FBAC	1.2.2	5	Trustees	1	I
+9	8.0_Coporate_Matters	FBAC	1.2.2	5	AGL Board	2	I
+9	8.0_Coporate_Matters	FBAC	1.2.2	5	Arup Group Chair	3	I
+9	8.0_Coporate_Matters	FBAC	1.2.2	5	AGL CEO	4	I
+9	8.0_Coporate_Matters	FBAC	1.2.2	5	Executive Board	5	I
+9	8.0_Coporate_Matters	FBAC	1.2.2	5	Exec Board member	6	I
+9	8.0_Coporate_Matters	FBAC	1.2.2	5	Market MD	7	I
+9	8.0_Coporate_Matters	FBAC	1.2.3	6	Trustees	1	I
+9	8.0_Coporate_Matters	FBAC	1.2.3	6	AGL Board	2	I
+9	8.0_Coporate_Matters	FBAC	1.2.3	6	Arup Group Chair	3	I
+9	8.0_Coporate_Matters	FBAC	1.2.3	6	AGL CEO	4	I
+9	8.0_Coporate_Matters	FBAC	1.2.3	6	Executive Board	5	I
+9	8.0_Coporate_Matters	FBAC	1.2.3	6	Exec Board member	6	I
+9	8.0_Coporate_Matters	FBAC	1.2.3	6	Market MD	7	I
+9	8.0_Coporate_Matters	FBAC	1.2.4	7	Trustees	1	C
+9	8.0_Coporate_Matters	FBAC	1.2.4	7	AGL Board	2	C
+9	8.0_Coporate_Matters	FBAC	1.2.4	7	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	FBAC	1.2.4	7	AGL CEO	4	C
+9	8.0_Coporate_Matters	FBAC	1.2.4	7	Executive Board	5	C
+9	8.0_Coporate_Matters	FBAC	1.2.4	7	Exec Board member	6	I
+9	8.0_Coporate_Matters	FBAC	1.2.4	7	Market MD	7	C
+9	8.0_Coporate_Matters	FBAC	1.3.1	8	Trustees	1	I
+9	8.0_Coporate_Matters	FBAC	1.3.1	8	AGL Board	2	I
+9	8.0_Coporate_Matters	FBAC	1.3.1	8	Arup Group Chair	3	A
+9	8.0_Coporate_Matters	FBAC	1.3.1	8	AGL CEO	4	I
+9	8.0_Coporate_Matters	FBAC	1.3.1	8	Executive Board	5	I
+9	8.0_Coporate_Matters	FBAC	1.3.1	8	Exec Board member	6	I
+9	8.0_Coporate_Matters	FBAC	1.3.1	8	Market MD	7	I
+9	8.0_Coporate_Matters	FBAC	1.3.2	9	Trustees	1	C
+9	8.0_Coporate_Matters	FBAC	1.3.2	9	AGL Board	2	C
+9	8.0_Coporate_Matters	FBAC	1.3.2	9	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	FBAC	1.3.2	9	AGL CEO	4	C
+9	8.0_Coporate_Matters	FBAC	1.3.2	9	Executive Board	5	C
+9	8.0_Coporate_Matters	FBAC	1.3.2	9	Exec Board member	6	C
+9	8.0_Coporate_Matters	FBAC	1.3.2	9	Market MD	7	C
+9	8.0_Coporate_Matters	FBAC	1.3.3	10	Trustees	1	C
+9	8.0_Coporate_Matters	FBAC	1.3.3	10	AGL Board	2	C
+9	8.0_Coporate_Matters	FBAC	1.3.3	10	Arup Group Chair	3	C
+9	8.0_Coporate_Matters	FBAC	1.3.3	10	AGL CEO	4	C
+9	8.0_Coporate_Matters	FBAC	1.3.3	10	Executive Board	5	C
+9	8.0_Coporate_Matters	FBAC	1.3.3	10	Exec Board member	6	C
+9	8.0_Coporate_Matters	FBAC	1.3.3	10	Market MD	7	C
+9	8.0_Coporate_Matters	FBAC	1.3.4	11	Trustees	1	I
+9	8.0_Coporate_Matters	FBAC	1.3.4	11	AGL Board	2	I
+9	8.0_Coporate_Matters	FBAC	1.3.4	11	Arup Group Chair	3	I
+9	8.0_Coporate_Matters	FBAC	1.3.4	11	AGL CEO	4	I
+9	8.0_Coporate_Matters	FBAC	1.3.4	11	Executive Board	5	C
+9	8.0_Coporate_Matters	FBAC	1.3.4	11	Exec Board member	6	I
+9	8.0_Coporate_Matters	FBAC	1.3.4	11	Market MD	7	I
